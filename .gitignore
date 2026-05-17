@@ -1,0 +1,16 @@
+# Raw data files
+data/*.xlsx
+data/*.parquet
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
