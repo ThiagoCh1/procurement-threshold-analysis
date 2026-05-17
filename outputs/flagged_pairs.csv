@@ -1,0 +1,70 @@
+pair_key,buyer_nif,buyer_name,supplier_nif,supplier_name,entity_type,distrito,n_contracts,n_near,near_rate,z_score,total_value,min_gap_days,years_active,tier
+500746427|503399477,500746427,"Instituto de Ação Social das Forças Armadas, I. P.",503399477,"Infortema, Consultoria e Sistemas de Informação, Lda",Instituto,Lisboa,8,8,1.0,4.036247901918048,145600.0,179.0,7,Flagged
+504841700|UNKNOWN,504841700,"Varzim Lazer - Empresa Municipal de Gestão de Equipamentos Desportivos e de Lazer, E. E. M.",,Filipa Calafate,Outro,Porto,23,23,1.0,4.036247901918048,459977.0,0.0,2,Flagged
+512063770|508858828,512063770,Município de Vila do Porto,508858828,"Byte74 - Informática, Unipessoal, Lda",Município,Região Autónoma dos Açores,8,8,1.0,4.036247901918048,159858.0,356.0,8,Flagged
+509821197|508014832,509821197,"Centro Hospitalar Universitário de São João, E. P. E.",508014832,"EDWARDS LIFESCIENCES , LDA",Hospital,Porto,99,95,0.9595959595959596,3.8631568815734894,1892350.0,0.0,6,Flagged
+507618319|515638730,507618319,"Centro Hospitalar de Lisboa Ocidental, E. P. E.",515638730,"Timóteo &amp; Vinagreiro, Lda.",Hospital,,11,10,0.9090909090909091,3.6467931061427907,211420.0,,2,Flagged
+508318262|511101066,508318262,"Centro Hospitalar do Tâmega e Sousa, E. P. E.",511101066,MOLNLYCKE HEALTH CARE,Hospital,Porto,10,9,0.9,3.6078476265652655,297900.0,,2,Flagged
+501322515|UNKNOWN,501322515,Sporting Clube de Aveiro,,Afonso de Sousa Camões Sobral,Outro,Aveiro,9,8,0.8888888888888888,3.560247595970511,198840.0,0.0,2,Flagged
+507618319|509245013,507618319,"Centro Hospitalar de Lisboa Ocidental, E. P. E.",509245013,"Culto da Imagem - Produções e Soluções, Lda.",Hospital,Lisboa,18,16,0.8888888888888888,3.560247595970511,615360.0,,1,Flagged
+512074836|509238564,512074836,Município de Lajes das Flores,509238564,"MASF - Morais Sarmento, Almeida Farinha &amp; Associados, Sociedade de Advogados SP, RL",Município,Região Autónoma dos Açores,9,8,0.8888888888888888,3.560247595970511,171920.62,109.0,8,Flagged
+501102752|509504345,501102752,Município de Amarante,509504345,"ACEAAP - Agência de Competências e Estudos Avançados para a Administração Pública, Lda.",Município,Porto,8,7,0.875,3.5007475577270695,133950.0,29.0,7,Flagged
+501356126|507781503,501356126,"Instituto Nacional de Emergência Médica, I. P.",507781503,"Velosa da Silva &amp; Associados, Sociedade de Advogados, R.L.",Instituto,Lisboa,8,7,0.875,3.5007475577270695,178062.0,229.0,8,Flagged
+504763202|510076211,504763202,"Águas de Gaia, EM, SA",510076211,"AUTO UNIVERSO LIVRE, LDA.",Outro,Porto,8,7,0.875,3.5007475577270695,214750.0,92.0,7,Flagged
+505804786|513880976,505804786,Município de Vila do Conde,513880976,"FERNANDO VET,LDA",Município,Porto,8,7,0.875,3.5007475577270695,155993.0,112.0,7,Flagged
+506624200|503632104,506624200,Município de Miranda do Corvo,503632104,Dueceira - Associação de Desenvolvimento do Ceira e Dueça,Município,Coimbra,8,7,0.875,3.5007475577270695,135100.0,210.0,8,Flagged
+506659968|503822051,506659968,Município do Crato,503822051,"Júlio Ventura Calado, Lda",Município,Portalegre,8,7,0.875,3.5007475577270695,142577.82,93.0,7,Flagged
+507618319|501799729,507618319,"Centro Hospitalar de Lisboa Ocidental, EPE (CHLO)",501799729,"Pergut Portugal - Comércio de Produtos Hospitalares e Médicos, Lda.",Hospital,Lisboa,40,35,0.875,3.5007475577270695,737836.45,,3,Flagged
+508318262|514863471,508318262,"Centro Hospitalar do Tâmega e Sousa, E. P. E.",514863471,"PTTEX - Industria Textil, Lda",Hospital,Porto,16,14,0.875,3.5007475577270695,590540.0,,1,Flagged
+507618319|502260750,507618319,"Centro Hospitalar de Lisboa Ocidental, E. P. E.",502260750,"OASIPOR - IMPORT. E EXPORT., SA",Hospital,Lisboa,81,70,0.8641975308641975,3.454469750204392,1794472.45,8.0,5,Flagged
+503939668|UNKNOWN,503939668,"idD - Plataforma das Indústrias de Defesa Nacionais, S. A.",,Maria Alexandra Massano Simão José,Outro,Lisboa,11,9,0.8181818181818182,3.2573383103675337,232007.0,1.0,4,Flagged
+507618319|506820513,507618319,"Unidade Local de Saúde de Lisboa Ocidental, E. P. E.",506820513,"EPJMÉDICA - ARTIGOS MÉD. HOSP., LDA.",Hospital,Lisboa,14,11,0.7857142857142857,3.1182473118763703,235885.72,,3,Flagged
+507618319|510662625,507618319,"Unidade Local de Saúde de Lisboa Ocidental, EPE",510662625,Enzymatic S.A.,Hospital,Lisboa,14,11,0.7857142857142857,3.1182473118763703,230143.6,,3,Flagged
+501121528|503632104,501121528,Município da Lousã,503632104,DUECEIRA - Associação de Desenvolvimento do Ceira e Dueça,Município,Coimbra,9,7,0.7777777777777778,3.084247290022975,151437.38,238.0,8,Flagged
+507618319|508192943,507618319,"Unidade Local de Saúde de Lisboa Ocidental, E. P. E.",508192943,"BTL PORTUGAL, UNIPESSOAL LDA.",Hospital,Lisboa,9,7,0.7777777777777778,3.084247290022975,157398.0,,3,Flagged
+507618319|510782736,507618319,"Centro Hospitalar de Lisboa Ocidental, E. P. E.",510782736,"DINAMICA TRADE UNIPESSOAL, LDA",Hospital,,18,14,0.7777777777777778,3.084247290022975,317247.98,,2,Flagged
+507618319|513837574,507618319,"Centro Hospitalar de Lisboa Ocidental, E. P. E.",513837574,APAIC - INTERNATIONAL COOPERATION UNIPESSOAL LDA,Hospital,Lisboa,35,27,0.7714285714285715,3.0570472725402587,643083.6,,3,Flagged
+507618319|502810645,507618319,"Centro Hospitalar de Lisboa Ocidental, E. P. E.",502810645,"Factor Plus -Produtos Médicos e Hospitalares, S.A.",Hospital,Lisboa,13,10,0.7692307692307693,3.0476318818731647,231141.72,426.0,4,Flagged
+501102752|500973636,501102752,Município de Amarante,500973636,"Silmed - Serviços Médicos, Lda.",Município,Porto,8,6,0.75,2.9652472135360908,156900.0,254.0,7,Flagged
+505456010|501559094,505456010,Município da Amadora,501559094,Universidade Nova de Lisboa,Município,Lisboa,8,6,0.75,2.9652472135360908,156776.2,29.0,5,Flagged
+508318262|507283244,508318262,"Centro Hospitalar do Tâmega e Sousa, E. P. E.",507283244,"Sérgio Correia - Importação e  Exportação, Lda.",Hospital,Porto,8,6,0.75,2.9652472135360908,134589.6,,2,Flagged
+508754496|514458925,508754496,Comunidade Intermunicipal do Minho - Lima,514458925,"Sociedade de Advogados sp, Rl",Outro,Viana do Castelo,8,6,0.75,2.9652472135360908,154525.0,221.0,7,Flagged
+600031691|510399711,600031691,Escola Profissional Agrícola Quinta da Lageosa,510399711,"Seedling, Lda.",Outro,Castelo Branco,8,6,0.75,2.9652472135360908,144500.0,115.0,7,Flagged
+501176080|507458702,501176080,"Instituto dos Vinhos do Douro e do Porto, I. P.",507458702,"Pinheiro Torres, Cabral, Sousa e Silva &amp; Associados, Sociedade de Advogados, SP, RL",Instituto,Porto,11,8,0.7272727272727273,2.8678835145922763,287151.26,53.0,7,Flagged
+501373357|500074135,501373357,"IAPMEI - Agência para a Competitividade e Inovação, I. P.",500074135,"Europcar Internacional-Aluguer de Automóveis, SA",Outro,Distrito não determinado,10,7,0.7,2.7510470758596988,261000.0,58.0,4,Flagged
+501617582|501355383,501617582,Universidade de Coimbra,501355383,"CISION Portugal - Distribuição de Informação, SA",Outro,Coimbra,10,7,0.7,2.7510470758596988,266200.0,26.0,6,Flagged
+505207117|500210950,505207117,Freguesia de Carnide,500210950,"Panificadora Modelo de Carnide , Ldª.",Freguesia,Lisboa,10,7,0.7,2.7510470758596988,168810.0,165.0,7,Flagged
+507618319|514863471,507618319,"Centro Hospitalar de Lisboa Ocidental, E. P. E.",514863471,"PTTEX, LDA",Hospital,Lisboa,10,7,0.7,2.7510470758596988,279958.33999999997,9.0,4,Flagged
+508968291|UNKNOWN,508968291,Ordem dos Psicólogos Portugueses,,Guilherme machado vaz,Outro,Lisboa,70,49,0.7,2.7510470758596988,1249310.93,0.0,7,Flagged
+501138943|UNKNOWN,501138943,Freguesia da Ajuda,,Tiago Miguel Machado Vieira,Freguesia,Lisboa,196,131,0.6683673469387755,2.615532703044023,3097762.56,0.0,5,Flagged
+503830704|UNKNOWN,503830704,"Infraquinta - Empresa de Infraestruturas da Quinta do Lago, E. M.",,Humberto Manuel Pereira Amâncio Viegas,Outro,Faro,12,8,0.6666666666666666,2.608246984075438,223302.65,2.0,7,Flagged
+508354617|507410785,508354617,Comunidade Intermunicipal da Região de Coimbra,507410785,"Trenmo Engenharia, SA",Outro,Coimbra,9,6,0.6666666666666666,2.608246984075438,196580.0,42.0,5,Flagged
+516844156|UNKNOWN,516844156,CTI Aeroespacial (Associação),,Celso Luiz Magalhães,Outro,Porto,12,8,0.6666666666666666,2.608246984075438,340955.0,1.0,1,Flagged
+506192164|UNKNOWN,506192164,Município de Penamacor,,Nuno Miguel Fernandes Cerdeira,Município,Castelo Branco,55,35,0.6363636363636364,2.478428718817019,898989.24,0.0,8,Flagged
+500051054|504143603,500051054,Câmara Municipal de Almada,504143603,"MASTER LINK - SISTEMAS DE INFORMAÇÃO, LDA",Município,Setúbal,8,5,0.625,2.429746869345112,241692.2,49.0,3,Flagged
+501143726|504273841,501143726,Município de Trancoso,504273841,"Moisés &amp; Filhos, Lda.",Município,Guarda,8,5,0.625,2.429746869345112,200970.0,315.0,7,Flagged
+501442600|515571130,501442600,"Instituto do Emprego e da Formação Profissional, I. P.",515571130,"Nuno Miguel Maia, Unipessoal, Lda.",Instituto,Aveiro,8,5,0.625,2.429746869345112,138673.18,113.0,7,Flagged
+502237490|502488603,502237490,"Instituto Nacional de Estatística, I. P.",502488603,ISEG - INSTITUTO SUPERIOR DE ECONOMIA E GESTÃO,Instituto,Lisboa,8,5,0.625,2.429746869345112,161852.16,338.0,8,Flagged
+503584215|513492615,503584215,"EGEAC - Empresa de Gestão de Equipamentos e Animação Cultural, E. M., S. A.",513492615,"TAUMOTROPIO, LDA",Outro,Lisboa,8,5,0.625,2.429746869345112,196000.0,208.0,8,Flagged
+503626406|UNKNOWN,503626406,Associação Exploratório Infante D. Henrique,,Fundación Titanic,Outro,Coimbra,8,5,0.625,2.429746869345112,190496.59,4.0,5,Flagged
+503973629|UNKNOWN,503973629,Freguesia de Ferreiras,,António José Alvélua Correia,Freguesia,Faro,8,5,0.625,2.429746869345112,134500.0,0.0,4,Flagged
+505931192|502266643,505931192,Município de Aveiro,502266643,FUNDAÇÃO DE SERRALVES,Município,Aveiro,8,5,0.625,2.429746869345112,165000.0,68.0,5,Flagged
+506149811|503595241,506149811,Município de Montalegre,503595241,"GEADA - Consultoria, Fiscalização e Projetos, Lda.",Município,Vila Real,8,5,0.625,2.429746869345112,160900.0,0.0,6,Flagged
+506738914|500282315,506738914,Município de Tomar,500282315,"Templazul, SA",Município,Santarém,8,5,0.625,2.429746869345112,129481.13,0.0,5,Flagged
+512063770|509238564,512063770,Município de Vila do Porto,509238564,"MSAF – Morais Sarmento, Almeida Farinha &amp; Associados – Sociedade de Advogados, R.L",Município,Região Autónoma dos Açores,8,5,0.625,2.429746869345112,145000.2,356.0,8,Flagged
+501442600|502981512,501442600,"Instituto do Emprego e da Formação Profissional, I. P.",502981512,"Press Forum - Comunicação Social, S.A.",Instituto,Lisboa,10,6,0.6,2.322646800506916,204200.0,41.0,5,Flagged
+506173968|505098288,506173968,Município do Seixal,505098288,FITOSISTEMA LDA,Município,Setúbal,10,6,0.6,2.322646800506916,180385.0,91.0,7,Flagged
+506716210|500775540,506716210,Município de Castro Daire,500775540,"Francisco Pereira Marinho &amp; Irmãos, S.A",Município,Viseu,10,6,0.6,2.322646800506916,286940.0,58.0,7,Flagged
+600086232|UNKNOWN,600086232,Direção Regional da Solidariedade Social,,Dra. Laura Linhares Meneses,Outro,Região Autónoma dos Açores,17,10,0.5882352941176471,2.272246768112471,299796.74,0.0,7,Flagged
+500963126|UNKNOWN,500963126,Ordem dos Solicitadores e dos Agentes de Execução,,Cláudia Sofia Nunes dos Santos Boloto,Outro,Lisboa,19,11,0.5789473684210527,2.2324572688536986,337642.78,0.0,7,Flagged
+507041895|UNKNOWN,507041895,Freguesia de Arazede,,Ana Sofia Ferreira Oliveira,Freguesia,Coimbra,14,8,0.5714285714285714,2.2002467218346924,214100.0,0.0,2,Flagged
+600087131|UNKNOWN,600087131,Direção Regional do Emprego e Qualificação Profissional,,Orlando José Xavier Cabral Melo,Outro,Região Autónoma dos Açores,30,17,0.5666666666666667,2.179846708722655,534567.4,0.0,7,Flagged
+501559094|502289929,501559094,Universidade Nova de Lisboa – Reitoria,502289929,"PLMJ ADVOGADOS, SP, RL",Outro,Lisboa,9,5,0.5555555555555556,2.1322466781279017,483800.0,0.0,5,Flagged
+502173297|507523903,502173297,Município de Paços de Ferreira,507523903,"Bdux Consulting, Lda",Município,Porto,9,5,0.5555555555555556,2.1322466781279017,207400.0,123.0,8,Flagged
+502201886|502635010,502201886,Centro Tecnológico das Indústrias Têxtil e do Vestuário de Portugal,502635010,"Eusébio &amp;amp; Rodrigues, Ldª.",Outro,Braga,9,5,0.5555555555555556,2.1322466781279017,186220.86,0.0,2,Flagged
+503148776|503670693,503148776,"Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P.",503670693,"Informantem - Informática e manutenção, Lda",Outro,Lisboa,9,5,0.5555555555555556,2.1322466781279017,153186.26,11.0,5,Flagged
+506173968|510101135,506173968,Município do Seixal,510101135,"Prensa XV - Artes de Tipografia Unipessoal, Lda",Município,Setúbal,9,5,0.5555555555555556,2.1322466781279017,145077.46,172.0,7,Flagged
+506473317|UNKNOWN,506473317,APEXA - Associação de Apoio à Pessoa Excepcional do Algarve,,Nicole Betencourt da Palma,Outro,Faro,9,5,0.5555555555555556,2.1322466781279017,163680.0,0.0,3,Flagged
+600084264|510399711,600084264,"Agrupamento de Escolas Abade de Baçal, Bragança",510399711,"Seedling, Lda.",Outro,Braganca,9,5,0.5555555555555556,2.1322466781279017,142600.0,104.0,7,Flagged
+501272968|502681160,501272968,Município de Elvas,502681160,Linhas de Elvas,Município,Portalegre,13,7,0.5384615384615384,2.0590158618282803,197560.0,35.0,8,Flagged
+514993871|502757566,514993871,"Unidade Local de Saúde do Oeste, EPE",502757566,Ambulâncias 111-serviço De Transporte De Doentes E Sinistrados S.a.,Hospital,Leiria,13,7,0.5384615384615384,2.0590158618282803,241240.24,0.0,2,Flagged

@@ -1,0 +1,513 @@
+pair_key,buyer_nif,buyer_name,supplier_nif,supplier_name,entity_type,distrito,n_contracts,n_near,near_rate,z_score,total_value,min_gap_days,years_active,tier
+500843139|510768547,500843139,Município de Caminha,510768547,"Carlos Sá Ribeiro, Lda.",Município,Viana do Castelo,7,7,1.0,4.036247901918048,135860.0,301.0,7,In observation
+501132872|500077568,501132872,Município de Alter do Chão,500077568,"CTT - Correios de Portugal, S.A.",Município,Portalegre,5,5,1.0,4.036247901918048,93920.0,347.0,5,In observation
+501306099|506346862,501306099,Município do Porto,506346862,ATELIER LÓGICO - SISTEMAS INFORMÁTICOS LDA,Município,Porto,5,5,1.0,4.036247901918048,99312.0,359.0,5,In observation
+501394192|507796870,501394192,Lipor - Serviço Intermunicipalizado de Gestão de Resíduos do Grande Porto,507796870,M T CARDOSO &amp; CARDOSO LDA,Outro,Porto,5,5,1.0,4.036247901918048,96000.0,0.0,3,In observation
+501413197|501776311,501413197,Universidade do Porto,501776311,"Deloitte &amp; Associados, SROC, S.A.",Outro,Porto,5,5,1.0,4.036247901918048,98902.2,10.0,3,In observation
+502256869|503882887,502256869,"APSS - Administração dos Portos de Setúbal e Sesimbra, S. A.",503882887,ROFF - Consultores Independentes S.A.,Outro,Setúbal,6,6,1.0,4.036247901918048,118967.0,259.0,5,In observation
+502423943|508508223,502423943,"Instituto Português do Sangue e da Transplantação, I. P.",508508223,"2ES - Engenharia Electromecânica, Segurança e Saúde, Lda",Instituto,Lisboa,5,5,1.0,4.036247901918048,99900.0,211.0,5,In observation
+504699326|501885846,504699326,"EPT - Ensino Profissional de Tomar, L.da",501885846,Ti António,Outro,Santarém,6,6,1.0,4.036247901918048,116120.0,0.0,5,In observation
+505187531|510451276,505187531,Município de Cascais,510451276,Guia de escolhas academia de psicologia Ldª.,Município,Lisboa,7,7,1.0,4.036247901918048,129600.0,320.0,7,In observation
+506215547|507863577,506215547,Município de Bragança,507863577,"EDITORIAL NOVEMBRO - EDICOES CAO MENOR, LDA",Município,Braganca,7,7,1.0,4.036247901918048,129300.0,152.0,6,In observation
+506334562|504172972,506334562,Município de Pombal,504172972,"NICYPAPER – Material de Escritório, Lda.",Município,Leiria,5,5,1.0,4.036247901918048,99649.51999999999,251.0,5,In observation
+506361438|502737808,506361438,Instit. Port. Oncologia Coimbra Francisco Gentil,502737808,"Castanheira, Almeida, Pereira, Mateus Ferreira &amp; Associados, Sociedade de Advogados, RL",Outro,Coimbra,7,7,1.0,4.036247901918048,138600.0,354.0,6,In observation
+506659968|504691031,506659968,Município do Crato,504691031,Ticket Line,Município,Portalegre,5,5,1.0,4.036247901918048,98935.0,336.0,5,In observation
+506693651|502504315,506693651,Município de Cinfães,502504315,"Oficina de Video, Lda.",Município,Viseu,7,7,1.0,4.036247901918048,137888.0,322.0,7,In observation
+506730573|506332489,506730573,Câmara Municipal de Vila do Bispo,506332489,"First Aid Imagem e Marketing, Lda",Município,Faro,5,5,1.0,4.036247901918048,99770.0,347.0,5,In observation
+506783146|515463965,506783146,Município de Albergaria-a-Velha,515463965,"Greenadn, Lda",Município,Aveiro,5,5,1.0,4.036247901918048,97360.0,366.0,5,In observation
+506841561|514513004,506841561,Munícipio de Fafe,514513004,"ESTANTÓTECA, ASSOCIAÇÃO",Outro,Braga,5,5,1.0,4.036247901918048,99705.0,192.0,5,In observation
+506865517|507291956,506865517,Município de Gavião,507291956,"SMART VISION, ASSESSORES E AUDITORES ESTRATÉGICOS LDA",Município,Portalegre,5,5,1.0,4.036247901918048,97402.76999999999,536.0,5,In observation
+507618319|501390324,507618319,"Centro Hospitalar de Lisboa Ocidental, E. P. E.",501390324,"Extincêndios, Equipamentos de Proteção e Segurança , S.A.",Hospital,,5,5,1.0,4.036247901918048,96548.0,,2,In observation
+507784529|501345361,507784529,Associação de Municípios do Baixo Sabor,501345361,Universidade de Trás-os-Montes e Alto Douro,Município,Braganca,5,5,1.0,4.036247901918048,98600.0,0.0,4,In observation
+508080142|502590327,508080142,"Centro Hospitalar Universitário Lisboa Central, E. P. E.",502590327,"Cast - Consultoria e Aplicações em Sistema e Tecnologia, Lda",Hospital,Lisboa,5,5,1.0,4.036247901918048,93508.79999999999,355.0,5,In observation
+508188423|506791262,508188423,"Administração Central do Sistema de Saúde, I. P.",506791262,"Palco e bancada - Venda e aluguer de equip p espetaculos, organização de eventos, Lda",Outro,Lisboa,6,6,1.0,4.036247901918048,119700.0,228.0,6,In observation
+508195446|513909710,508195446,"Instituto da Mobilidade e dos Transportes, I. P.",513909710,Expandoptimism Lda,Instituto,Lisboa,5,5,1.0,4.036247901918048,98931.37,130.0,3,In observation
+508481287|501782281,508481287,"Centro Hospitalar Universitário de Lisboa Norte, E. P. E.",501782281,STTEI-SOCIED.TECNICA TEL.EQUIP.INFORMATICOS LDA.,Hospital,Lisboa,6,6,1.0,4.036247901918048,117822.0,330.0,5,In observation
+510832946|503843717,510832946,Freguesia de Belém,503843717,Rplm - Gestão de Investimentos S.A,Freguesia,Lisboa,6,6,1.0,4.036247901918048,108000.0,330.0,5,In observation
+512065837|509238564,512065837,Município do Corvo,509238564,MSAF. Sociedade de Advogados RL,Município,Região Autónoma dos Açores,7,7,1.0,4.036247901918048,137600.0,358.0,7,In observation
+512070946|509238564,512070946,Município da Madalena,509238564,"MSAF- Morais Sarmento, Almeida Farinha &amp; Associados. Sociedade de Advogados SP, RL",Município,Região Autónoma dos Açores,6,6,1.0,4.036247901918048,119940.0,362.0,6,In observation
+512074143|509238564,512074143,Município das Lajes do Pico,509238564,"MSAF- Morais Sarmento, Almeida Farinha &amp; Associados- Sociedade de Advogados, SP, R.L",Município,Região Autónoma dos Açores,6,6,1.0,4.036247901918048,108000.0,353.0,6,In observation
+600014576|507349601,600014576,Secretaria-Geral do Ministério dos Negócios Estrangeiros,507349601,"ARMIS – SISTEMAS DE INFORMAÇÃO, LDA.",Ministério,Lisboa,5,5,1.0,4.036247901918048,99310.0,134.0,4,In observation
+600080676|504961187,600080676,Agrupamento Vertical de Escolas de Marco de Canaveses,504961187,IRMC-Centro de Informática e Contabilidade Lda,Outro,Porto,5,5,1.0,4.036247901918048,96700.0,355.0,5,In observation
+600083632|508924871,600083632,"Agrupamento de Escolas de Águas Santas, Maia",508924871,"MAGNICÁLCULO UNIPESSOAL, LDA",Outro,Porto,7,7,1.0,4.036247901918048,139860.0,151.0,7,In observation
+501144218|513230726,501144218,Câmara Municipal de Sesimbra,513230726,ASSOCIAÇÃO DAS ORQUESTRAS SINFÓNICAS JUVENIS SISTEMA PORTUGAL,Município,Setúbal,7,6,0.8571428571428571,3.4242475085569293,143761.2,262.0,6,In observation
+501157280|509074227,501157280,Município de Santa Maria da Feira,509074227,"Detalhe Virtual - Sistemas Técnicos, Lda.",Município,Aveiro,7,6,0.8571428571428571,3.4242475085569293,130334.64,63.0,5,In observation
+501306099|500540179,501306099,Município do Porto,500540179,"J. E. DIAS COSTA, LDA",Município,Porto,7,6,0.8571428571428571,3.4242475085569293,127500.0,0.0,6,In observation
+505371600|503632104,505371600,Município de Vila Nova de Poiares,503632104,Dueceira - Associação de Desenvolvimento do Ceira e Dueça,Município,Coimbra,7,6,0.8571428571428571,3.4242475085569293,117000.0,329.0,7,In observation
+506361608|515083704,506361608,"Centro Hospitalar do Médio Tejo, E. P. E.",515083704,ADSTERT,Hospital,Santarém,7,6,0.8571428571428571,3.4242475085569293,154586.8,64.0,6,In observation
+506810496|513415734,506810496,Freguesia de Campolide,513415734,"Localgest - Serviços de Contabilidade e Gestão, Unipessoal, Lda.",Freguesia,Lisboa,7,6,0.8571428571428571,3.4242475085569293,151000.0,258.0,6,In observation
+512077843|509238564,512077843,"Portos dos Açores, S. A.",509238564,"MSAF - Morais Sarmento, Almeida Farinha &amp; Associados - Sociedade de Advogados SP, RL",Outro,Região Autónoma dos Açores,7,6,0.8571428571428571,3.4242475085569293,187560.0,366.0,7,In observation
+502173653|505365456,502173653,Município de Torres Vedras,505365456,"Jomarlux - Comércio de Material Electrico, Lda",Município,Lisboa,6,5,0.8333333333333334,3.3222474429967432,124300.0,282.0,6,In observation
+504577484|UNKNOWN,504577484,APEPO-Associação Para o Ensino Profissional do Oeste,,Jorge Hernâni de Almeida Seabra,Outro,Leiria,6,5,0.8333333333333334,3.3222474429967432,110620.0,14.0,4,In observation
+505309939|509597009,505309939,Município de Portimão,509597009,"Pedras Mudas, Unipessoal, Lda",Município,Faro,6,5,0.8333333333333334,3.3222474429967432,144150.0,11.0,4,In observation
+506321894|514138416,506321894,Município de Olhão,514138416,"Paulo Ângelo Jacinto Unipessoal, Lda",Município,Faro,6,5,0.8333333333333334,3.3222474429967432,147980.0,111.0,5,In observation
+506656128|513328483,506656128,Município de Paredes,513328483,"O Paredense - Comunicação, Unipessoal, Lda",Município,Porto,6,5,0.8333333333333334,3.3222474429967432,114500.0,369.0,6,In observation
+512074143|512012377,512074143,Município das Lajes do Pico,512012377,O Dever,Município,Região Autónoma dos Açores,6,5,0.8333333333333334,3.3222474429967432,122799.93,333.0,6,In observation
+600067963|501751564,600067963,"Escola Profissional de Agricultura e Desenvolvimento Rural de Cister, Alcobaça",501751564,Agripóvoa,Outro,Leiria,6,5,0.8333333333333334,3.3222474429967432,110338.0,297.0,6,In observation
+500051054|506800954,500051054,Município de Almada,506800954,NCS - Número de Ciclos por Segundo,Município,Setúbal,5,4,0.8,3.1794473512124823,96100.0,364.0,5,In observation
+500051070|502161078,500051070,Município de Lisboa,502161078,"KPMG &amp; Associados - Sociedade de Revisores Oficiais de Contas, S.A",Município,Lisboa,5,4,0.8,3.1794473512124823,154600.0,21.0,4,In observation
+500051070|509803229,500051070,Município de Lisboa,509803229,"OTTO SERVICE PROVIDER UNIPESOAL, LDA",Município,Lisboa,5,4,0.8,3.1794473512124823,128300.0,0.0,2,In observation
+500225680|505141019,500225680,"Rádio e Televisão de Portugal, S. A.",505141019,"VORTAL-COMERCIO ELECT.CONS.MULTIMEDIA, SA",Outro,Lisboa,5,4,0.8,3.1794473512124823,89820.0,287.0,5,In observation
+500960950|500145415,500960950,Serviços Sociais da Polícia de Segurança Pública,500145415,RECHEIO - CASH AND CARRY,Outro,Lisboa,5,4,0.8,3.1794473512124823,100749.0,345.0,5,In observation
+501273433|510075398,501273433,Município de Almeirim,510075398,Verdade das Palavras,Município,Santarém,5,4,0.8,3.1794473512124823,88100.0,302.0,5,In observation
+501460888|510784135,501460888,"Instituto da Habitação e da Reabilitação Urbana, I. P.",510784135,Rogério Alves &amp; Associados - Soc. de Advogados RL,Instituto,Lisboa,5,4,0.8,3.1794473512124823,84700.0,155.0,4,In observation
+501461108|510923690,501461108,Universidade de Aveiro,510923690,"E4S,Lda",Outro,Aveiro,5,4,0.8,3.1794473512124823,85950.0,0.0,2,In observation
+502017368|510323359,502017368,Autoridade Nacional de Comunicações,510323359,"GIANTSTEP, LDA",Outro,Lisboa,5,4,0.8,3.1794473512124823,91272.0,183.0,4,In observation
+502237490|501340114,502237490,"Instituto Nacional de Estatística, I. P.",501340114,"PENGEST – PLANEAMENTO, ENGENHARIA E GESTÃO, SA",Instituto,Lisboa,5,4,0.8,3.1794473512124823,139300.0,189.0,4,In observation
+502266694|510315674,502266694,Comunidade Intermunicipal do Oeste,510315674,"Fanha Vieira &amp; Associados, Sociedade de Advogados, RL",Outro,Leiria,5,4,0.8,3.1794473512124823,139200.0,403.0,5,In observation
+503148776|502530286,503148776,"Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P.",502530286,"LUSO CUANZA- SOCIEDADE DE IMPORTAÇÃO E EXPORTAÇÃO, LDA.",Outro,Lisboa,5,4,0.8,3.1794473512124823,80921.0,76.0,4,In observation
+503756237|502726890,503756237,AGENCIA DE GESTÃO DA TESOUR. E DIVIDA PUBLICA-EPE,502726890,"GFI Portugal -Tecnologias de Informação, S.A.",Outro,Lisboa,5,4,0.8,3.1794473512124823,83360.49,343.0,4,In observation
+506192164|513406794,506192164,Município de Penamacor,513406794,"Bastos, Amorim e Araújo - Consultoria Trading, Lda.",Município,Castelo Branco,5,4,0.8,3.1794473512124823,109800.0,345.0,5,In observation
+506320120|507510453,506320120,"Agência para o Investimento e Comércio Externo de Portugal, E. P. E.",507510453,"Marksearch - Estudos Mercado, Unipessoal, Lda.",Outro,,5,4,0.8,3.1794473512124823,101400.0,69.0,4,In observation
+506334562|516183362,506334562,Município de Pombal,516183362,"Capeleiria Unipessoal, Lda., Lda.",Município,Leiria,5,4,0.8,3.1794473512124823,102650.0,169.0,4,In observation
+506656128|505738058,506656128,Município de Paredes,505738058,"UNI-Comunicação, S.A",Município,Porto,5,4,0.8,3.1794473512124823,94600.0,353.0,5,In observation
+506792382|506379370,506792382,Município da Mealhada,506379370,"Síntese - Consultoria em Planeamento, Lda",Município,Aveiro,5,4,0.8,3.1794473512124823,82850.0,140.0,4,In observation
+506852032|504094386,506852032,Município de Sernancelhe,504094386,Hotel Rural Convento Nossa Senhora do Carmo Lda,Município,Viseu,5,4,0.8,3.1794473512124823,118400.0,8.0,4,In observation
+506874249|503821012,506874249,Município de Alcobaça,503821012,"SOCIEDADE PORTUGUESA DE INOVAÇÃO - Consultadoria Empresarial e Fomento da Inovação, S.A.",Município,Leiria,5,4,0.8,3.1794473512124823,83290.0,111.0,4,In observation
+506901173|502266643,506901173,Município de Braga,502266643,Fundação de Serralves,Município,Braga,5,4,0.8,3.1794473512124823,87250.0,249.0,5,In observation
+506901173|506398188,506901173,Município de Braga,506398188,"Movielight, Produções Audiovisuais e Multimédia, Lda.",Município,Braga,5,4,0.8,3.1794473512124823,102183.0,281.0,5,In observation
+506912833|502856408,506912833,Município de Vagos,502856408,Vitor Almeida &amp; Filhos S.A,Município,Aveiro,5,4,0.8,3.1794473512124823,139326.0,103.0,4,In observation
+507700651|503682454,507700651,"Penafiel Verde, E. M.",503682454,"Autoguilhufense, Lda",Outro,Porto,5,4,0.8,3.1794473512124823,105944.0,249.0,4,In observation
+510841350|514350806,510841350,"União das Freguesias do Seixal, Arrentela e Aldeia de Paio Pires",514350806,"Diverlight - Iluminações, Unipessoal Lda.",Freguesia,Setúbal,5,4,0.8,3.1794473512124823,131800.0,355.0,5,In observation
+515545180|504595440,515545180,"Hospital de Braga, E. P. E.",504595440,"GADSA – Arquivo e Depósito, S.A.,",Hospital,Braga,5,4,0.8,3.1794473512124823,96460.75,325.0,5,In observation
+600021777|514646284,600021777,"Escola Secundária Rocha Peixoto, Póvoa de Varzim",514646284,"Domingues &amp; Sá, Lda.",Outro,Porto,5,4,0.8,3.1794473512124823,99338.86,1.0,2,In observation
+600079791|509381448,600079791,Agrupamento de Escolas Marcelino Mesquita do Cartaxo,509381448,"Papetarget, SA",Outro,Santarém,5,4,0.8,3.1794473512124823,86000.0,300.0,5,In observation
+680047930|514999713,680047930,Serviços Municipalizados de Água e Saneamento do Município de Montijo,514999713,EGEO Circular SA,Município,Setúbal,5,4,0.8,3.1794473512124823,109180.0,422.0,5,In observation
+504004522|510807453,504004522,Associação de Municípios da Terra Fria do Nordeste Transmontano,510807453,SIGWAY Sistemas Integrados de Gestão Lda,Município,Braganca,7,5,0.7142857142857143,2.8122471151958113,148761.36,317.0,7,In observation
+506612287|503945650,506612287,Município de Nisa,503945650,"JOÃO SERRAS, LDA.",Município,Portalegre,7,5,0.7142857142857143,2.8122471151958113,135996.76,332.0,7,In observation
+506963837|510958338,506963837,Município da Sertã,510958338,"Get Mood, Unipessoal, Lda",Município,Castelo Branco,7,5,0.7142857142857143,2.8122471151958113,129743.0,40.0,6,In observation
+508080142|501989978,508080142,"Centro Hospitalar Universitário Lisboa Central, E. P. E.",501989978,Quidgest-Consultores de Gestão S.A.,Hospital,Lisboa,7,5,0.7142857142857143,2.8122471151958113,109420.0,18.0,5,In observation
+508195446|501770038,508195446,"Instituto da Mobilidade e dos Transportes, I. P.",501770038,"Exacto-Sociedade de Estado e Planeamento, Lda",Instituto,Lisboa,7,5,0.7142857142857143,2.8122471151958113,121700.0,6.0,2,In observation
+508887780|509173071,508887780,Comunidade Intermunicipal do Ave,509173071,"Mota-Prego, Torrinha, Cordier &amp; Costa, Sociedade de Advogados, R.L",Outro,Braga,7,5,0.7142857142857143,2.8122471151958113,152000.0,305.0,7,In observation
+600073041|510691331,600073041,"Agrupamento de Escolas de Monserrate, Viana do Castelo",510691331,Cálculoessencial,Outro,Viana do Castelo,7,5,0.7142857142857143,2.8122471151958113,133050.0,333.0,7,In observation
+680000054|980609089,680000054,Serviços Municipalizados de Água e Saneamento de Sintra,980609089,AIG Europe SA - Sucursal em Portugal,Outro,Lisboa,7,5,0.7142857142857143,2.8122471151958113,167853.94,355.0,7,In observation
+500792771|501926003,500792771,Banco de Portugal,501926003,"Easyvista, S.A.",Outro,Lisboa,6,4,0.6666666666666666,2.608246984075438,519910.0,492.0,6,In observation
+500793263|UNKNOWN,500793263,Academia de Música de Viana do Castelo - Conservatório Regional do Alto Minho,,Elsa Maria  de barros Barbosa Leites,Outro,Viana do Castelo,6,4,0.6666666666666666,2.608246984075438,104292.1,0.0,2,In observation
+500900469|510540309,500900469,Serviço de Utilização Comum dos Hospitais,510540309,"GREENSECRETS UNIPESSOAL,LDA.",Outro,Lisboa,6,4,0.6666666666666666,2.608246984075438,109702.0,303.0,6,In observation
+501073655|514148306,501073655,Município de Marco de Canaveses,514148306,"Associação Nativa - Natureza, Invasoras e Valorização Ambiental",Município,Porto,6,4,0.6666666666666666,2.608246984075438,145000.0,341.0,6,In observation
+501121536|510087892,501121536,Município de Torre de Moncorvo,510087892,"Intensiluz - Material Eléctrico, Lda.",Município,Braganca,6,4,0.6666666666666666,2.608246984075438,120132.79000000001,272.0,6,In observation
+501222634|515837300,501222634,Município de Caldas da Rainha,515837300,"Kausa Advogados - Mafalda Fernandes, Raquel Alves &amp; Associados - Sociedade de Advogados",Município,Leiria,6,4,0.6666666666666666,2.608246984075438,89850.0,1.0,2,In observation
+501306099|504104020,501306099,Município do Porto,504104020,RAMALHO &amp; REBELO - DESIGN LDA,Município,Porto,6,4,0.6666666666666666,2.608246984075438,195380.0,118.0,4,In observation
+501306870|514571497,501306870,Município de Santo Tirso,514571497,"VISITA CATITA UNIPESSOAL, LDA.",Município,Porto,6,4,0.6666666666666666,2.608246984075438,188750.0,54.0,4,In observation
+501559094|510368719,501559094,Universidade Nova de Lisboa,510368719,SAUDADE ÀS FATIAS - CATERING E RESTAURAÇÃO UNIPESSOAL LDA,Outro,Lisboa,6,4,0.6666666666666666,2.608246984075438,170829.0,42.0,4,In observation
+502017368|513625305,502017368,Autoridade Nacional de Comunicações,513625305,"Pelican Calculus Unipessoal, Lda",Outro,Lisboa,6,4,0.6666666666666666,2.608246984075438,110390.0,58.0,4,In observation
+502834846|510070191,502834846,Município do Montijo,510070191,"ValeConsultores, Ldª.",Município,Setúbal,6,4,0.6666666666666666,2.608246984075438,124062.0,358.0,6,In observation
+503584215|506645541,503584215,"EGEAC - Empresa de Gestão de Equipamentos e Animação Cultural, E. M., S. A.",506645541,AROMALIMPA LIMPEZAS INDUSTRIAIS S.A,Outro,Lisboa,6,4,0.6666666666666666,2.608246984075438,98707.71,81.0,4,In observation
+503584215|513449809,503584215,"EGEAC - Empresa de Gestão de Equipamentos e Animação Cultural, E. M., S. A.",513449809,4 Company Hotels Lda,Outro,Lisboa,6,4,0.6666666666666666,2.608246984075438,124715.6,129.0,6,In observation
+505998718|UNKNOWN,505998718,Freguesia de Oiã,,VIRGÍLIO RODRIGUES PEREIRA,Freguesia,Aveiro,6,4,0.6666666666666666,2.608246984075438,97310.0,357.0,6,In observation
+506656128|507037952,506656128,Município de Paredes,507037952,"RPTOP PROJETOS DE ESPECIALIDADES MECÂNICAS PARA CONSTRUÇÃO CIVIL, LDª",Município,Porto,6,4,0.6666666666666666,2.608246984075438,304960.0,254.0,6,In observation
+506656128|514902906,506656128,Município de Paredes,514902906,"DIVULGAPLAUSO - PUBLICIDADE UNIPESSOAL, LDA",Município,Porto,6,4,0.6666666666666666,2.608246984075438,168450.0,177.0,5,In observation
+506791238|514281979,506791238,Município da Murtosa,514281979,"Globalpalcos, Unipessoal, L.da",Município,Aveiro,6,4,0.6666666666666666,2.608246984075438,134530.0,329.0,6,In observation
+506833232|503095303,506833232,Município de Arganil,503095303,"Morais Leitão, Galvão Teles, Soares da Silva",Município,Coimbra,6,4,0.6666666666666666,2.608246984075438,216062.0,181.0,5,In observation
+507718666|514299223,507718666,"CMPEA - Empresa de Águas do Município do Porto, E. M.",514299223,VanityMeridian Unipessoal Lda.,Município,Porto,6,4,0.6666666666666666,2.608246984075438,135139.0,94.0,5,In observation
+508754496|501381171,508754496,Comunidade Intermunicipal do Minho - Lima,501381171,"Carlos Teixeira, Noé Gomes e Associado, SROC, Lda.",Outro,Viana do Castelo,6,4,0.6666666666666666,2.608246984075438,89699.32,186.0,4,In observation
+508914698|515200786,508914698,"Polis Litoral Ria de Aveiro - Sociedade para a Requalificação e Valorização da Ria de Aveiro, S. A.",515200786,"KESTÃOCINTILANTE, LDA.",Outro,Aveiro,6,4,0.6666666666666666,2.608246984075438,147150.0,264.0,4,In observation
+509822940|514929170,509822940,"Unidade Local de Saúde de Viseu Dão-Lafões, E. P. E.",514929170,Planeta Vertical Lda,Hospital,Viseu,6,4,0.6666666666666666,2.608246984075438,101448.0,35.0,2,In observation
+510832806|506645541,510832806,Freguesia de Alvalade,506645541,"AROMALIMPA - Limpezas Industriais, S.A.",Freguesia,Lisboa,6,4,0.6666666666666666,2.608246984075438,134154.03,143.0,5,In observation
+512065837|514689501,512065837,Município do Corvo,514689501,"BSP - Ludgero Bronze, Vítor de Sá Pereira &amp; Associados",Município,Região Autónoma dos Açores,6,4,0.6666666666666666,2.608246984075438,84000.0,165.0,3,In observation
+600075311|500151571,600075311,"Agrupamento de Escolas Eng. Fernando Pinto de Oliveira,  Matosinhos",500151571,"Joaquim Costa Ferreira &amp; Filhos, Lda",Outro,Porto,6,4,0.6666666666666666,2.608246984075438,120175.0,280.0,6,In observation
+600076326|500675252,600076326,Agrupamento de Escolas Professor João de Meira,500675252,"Lardomus - Sociedade de Alimentos, Lda",Outro,Braga,6,4,0.6666666666666666,2.608246984075438,91635.25,0.0,4,In observation
+600077241|501067264,600077241,Agrupamento de Escolas de Arouca,501067264,União Panificadora Central Arouquense,Outro,Aveiro,6,4,0.6666666666666666,2.608246984075438,109700.0,0.0,3,In observation
+600085155|500151571,600085155,Agrupamento Escolas Padrão da Légua,500151571,Costa Ferreira,Outro,Porto,6,4,0.6666666666666666,2.608246984075438,168535.0,308.0,5,In observation
+680009671|980609089,680009671,SIMAR – Serviços Intermunicipalizados de Loures e Odivelas,980609089,"AIG EUROPE, SA - SUCURSAL  EM PORTUGAL",Outro,Lisboa,6,4,0.6666666666666666,2.608246984075438,101439.0,251.0,5,In observation
+500051062|505869721,500051062,Município de Sintra,505869721,Instituto Superior de Agronomia,Município,Lisboa,5,3,0.6,2.322646800506916,73700.0,274.0,5,In observation
+500051070|502289929,500051070,Município de Lisboa,502289929,"PLMJ ADVOGADOS, SP, RL",Município,Lisboa,5,3,0.6,2.322646800506916,196740.0,101.0,4,In observation
+500051070|509725317,500051070,Município de Lisboa,509725317,Momentos Floridos,Município,Lisboa,5,3,0.6,2.322646800506916,79008.5,60.0,3,In observation
+500051070|514352833,500051070,Município de Lisboa,514352833,"Ecomantém, Unipessoal, Lda",Município,Lisboa,5,3,0.6,2.322646800506916,207098.47999999998,0.0,3,In observation
+500051070|516473069,500051070,Município de Lisboa,516473069,"Episódios e Epopeias, Lda.",Município,Lisboa,5,3,0.6,2.322646800506916,111900.0,295.0,5,In observation
+500086826|509731562,500086826,"Docapesca - Portos e Lotas, S. A.",509731562,"LUXUS, Unipessoal, Lda.",Outro,Faro,5,3,0.6,2.322646800506916,96900.0,134.0,4,In observation
+500792771|509072054,500792771,Banco de Portugal,509072054,"Integrity, S.A.",Outro,Lisboa,5,3,0.6,2.322646800506916,439864.88,136.0,4,In observation
+500792887|500912645,500792887,"Imprensa Nacional - Casa da Moeda, S. A.",500912645,"Ernst &amp; Young, S.A.",Outro,Lisboa,5,3,0.6,2.322646800506916,84970.0,188.0,5,In observation
+500792933|501768254,500792933,"ENATUR - Empresa Nacional de Turismo, S. A.",501768254,GESBANHA - Gestão e Contabilidade. SA,Outro,Lisboa,5,3,0.6,2.322646800506916,208754.0,349.0,5,In observation
+500843139|513812032,500843139,Município de Caminha,513812032,"H.B. Branco, Lda.",Município,Viana do Castelo,5,3,0.6,2.322646800506916,77394.5,359.0,5,In observation
+501067191|501722882,501067191,Município de Tavira,501722882,"Rádio Gilão Tavira - Cooperativa Rádio Difusão, CRL",Município,Faro,5,3,0.6,2.322646800506916,128169.0,426.0,5,In observation
+501121536|502161078,501121536,Município de Torre de Moncorvo,502161078,"KPMG &amp; ASSOCIADOS - Sociedade de Revisores Oficiais de Contas, S.A.",Município,Braganca,5,3,0.6,2.322646800506916,202280.0,347.0,4,In observation
+501138960|501461108,501138960,Município de Valongo,501461108,Universidade de Aveiro,Município,Porto,5,3,0.6,2.322646800506916,70433.02,0.0,3,In observation
+501181857|504615947,501181857,Município de Sardoal,504615947,"Meo-Serviços de Comunicações e Multimédia, S.A",Município,Santarém,5,3,0.6,2.322646800506916,80576.32,130.0,4,In observation
+501272976|514631481,501272976,Município de Montemor-o-Velho,514631481,"TOP RH – CONSULTING, UNIPESSOAL, LDA.",Município,Coimbra,5,3,0.6,2.322646800506916,125949.91,348.0,5,In observation
+501273433|510650015,501273433,Município de Almeirim,510650015,"PÉTALA PRIMAVERA, CONSTRUÇÃO E MANUTENÇÃO DE ESPAÇOS VERDES, LDA",Município,Santarém,5,3,0.6,2.322646800506916,88080.0,353.0,5,In observation
+501294996|501211225,501294996,Município de Loures,501211225,"Batalha dos Anjos, Lda.",Município,Lisboa,5,3,0.6,2.322646800506916,166740.0,127.0,4,In observation
+501305912|501544801,501305912,Município de Matosinhos,501544801,"CARPNEU - SOCIEDADE COMERCIAL DE PNEUS E ACESSORIOS PARA AUTOMOVEIS, S.A.",Município,Porto,5,3,0.6,2.322646800506916,108158.46,0.0,4,In observation
+501306099|507411072,501306099,Município do Porto,507411072,VISIONWARE SISTEMAS DE INFORMAÇÃO SA,Município,Porto,5,3,0.6,2.322646800506916,129450.0,24.0,4,In observation
+501306099|513621156,501306099,Município do Porto,513621156,"MIGUEL DE BRITO MENDES, UNIPESSOAL LDA",Município,Porto,5,3,0.6,2.322646800506916,121932.98,111.0,4,In observation
+501306269|516469983,501306269,Município de Ovar,516469983,"Granja e Simão, Lda",Município,Aveiro,5,3,0.6,2.322646800506916,86785.0,328.0,5,In observation
+501442600|515046094,501442600,"Instituto do Emprego e da Formação Profissional, I. P.",515046094,"Centeno Lourenço Barata, Sociedade Unipessoal, Lda",Instituto,Santarém,5,3,0.6,2.322646800506916,76969.68,240.0,4,In observation
+501559094|500246530,501559094,Universidade Nova de Lisboa,500246530,"Servisan - Produtos de Higiene, S.A",Outro,Lisboa,5,3,0.6,2.322646800506916,82125.95999999999,65.0,3,In observation
+501559094|503501670,501559094,Universidade Nova de Lisboa,503501670,iberlim,Outro,Lisboa,5,3,0.6,2.322646800506916,135162.2,4.0,1,In observation
+501559094|505906821,501559094,Universidade Nova de Lisboa,505906821,"Antares - Consulting Consultoria de Gestão, Lda",Outro,Lisboa,5,3,0.6,2.322646800506916,91500.0,343.0,5,In observation
+501617582|505770490,501617582,Universidade de Coimbra,505770490,"Jardencanto,  Plantação e Conservação de Jardins, Lda",Outro,Coimbra,5,3,0.6,2.322646800506916,70740.0,348.0,5,In observation
+501886354|500897964,501886354,CENCAL - Centro de Formação Profissional para a Indústria de Cerâmica,500897964,LameirasParques,Outro,Leiria,5,3,0.6,2.322646800506916,93110.0,305.0,5,In observation
+502098139|507588452,502098139,Município de Loulé,507588452,"COPROFIS - ENGENHARIA, CONSULTORIA E FORMAÇÃO, LDA",Município,Faro,5,3,0.6,2.322646800506916,158582.65,400.0,5,In observation
+502150319|502561815,502150319,Município de Alcácer do Sal,502561815,"Tfuel, Lda",Município,Setúbal,5,3,0.6,2.322646800506916,105165.0,323.0,5,In observation
+502174153|513790837,502174153,Município de Moura,513790837,"NEXO - SERVIÇOS DE ENGENHARIA, LDA",Município,Beja,5,3,0.6,2.322646800506916,105425.0,505.0,5,In observation
+502246111|UNKNOWN,502246111,Novotecna - Associação para o Desenvolvimento Tecnológico,,Ivone Carla Simões Oliveira do Bem,Outro,Coimbra,5,3,0.6,2.322646800506916,85549.94,0.0,4,In observation
+502266694|513735917,502266694,Comunidade Intermunicipal do Oeste,513735917,"Wecul- Sistemas de Informação, Lda",Outro,Leiria,5,3,0.6,2.322646800506916,103530.0,221.0,5,In observation
+502563010|500697370,502563010,Município de Sines,500697370,"PETROGAL, S.A.",Município,Setúbal,5,3,0.6,2.322646800506916,94700.1,67.0,4,In observation
+502563010|509837263,502563010,Município de Sines,509837263,"Emviagem Rent-a-Car, Lda",Município,Setúbal,5,3,0.6,2.322646800506916,130265.0,357.0,5,In observation
+502857145|500231206,502857145,FUNDAÇÃO CENTRO CULTURAL DE BELÉM,500231206,"Resopre - Sociedade Revendedora de Aparelhos de Precisão, S.A.",Outro,Lisboa,5,3,0.6,2.322646800506916,65769.99,62.0,3,In observation
+502971096|513735917,502971096,CI-AMAL - Comunidade Intermunicipal do Algarve,513735917,"Wecul Sistemas de Informação, Lda",Outro,Faro,5,3,0.6,2.322646800506916,145528.0,97.0,5,In observation
+503148709|504799541,503148709,"Administração Regional de Saúde do Algarve, I. P.",504799541,MedicineOne Life Sciences Computing S.A.,Outro,Faro,5,3,0.6,2.322646800506916,87875.0,27.0,4,In observation
+503533114|507011724,503533114,Associação Amigos do Coliseu do Porto,507011724,"RONSEGUR – RONDAS E SEGURANÇA, S.A.",Outro,Porto,5,3,0.6,2.322646800506916,281424.3,39.0,3,In observation
+503539473|501351167,503539473,Município de Albufeira,501351167,"Rentokil Initial Portugal - Serviços de Proteção Ambiental, Lda",Município,,5,3,0.6,2.322646800506916,139245.0,,2,In observation
+503657190|507477740,503657190,Escola Nacional de Bombeiros,507477740,"Canon Portugal, S.A",Outro,Coimbra,5,3,0.6,2.322646800506916,137980.07,386.0,5,In observation
+503692310|507799607,503692310,Ordem dos Contabilistas Certificados,507799607,"SYSBIZZ INFORMATION TECHNOLOGIES, LDA",Outro,Lisboa,5,3,0.6,2.322646800506916,108000.0,308.0,5,In observation
+504288806|503412031,504288806,ANAC - Autoridade Nacional da Aviação Civil,503412031,"CLARANET PORTUGAL, S,A",Outro,Lisboa,5,3,0.6,2.322646800506916,180837.8,35.0,4,In observation
+504293125|501290010,504293125,Município de Odivelas,501290010,Pedro e Paulo Lda,Município,Lisboa,5,3,0.6,2.322646800506916,91400.0,349.0,5,In observation
+504296434|500231206,504296434,Município da Trofa,500231206,"RESOPRE - SOC.REV.APARELHOS DE PRECISAO, S.A.",Município,Porto,5,3,0.6,2.322646800506916,137127.6,366.0,5,In observation
+504515250|UNKNOWN,504515250,"Profigaia - Sociedade de Educação e Formação Tecnológica e Profissional, L.da",,José Miguel de Carvalho Barroso,Outro,Porto,5,3,0.6,2.322646800506916,73080.0,44.0,2,In observation
+504658948|UNKNOWN,504658948,Fundação Manuel Viegas Guerreiro,,PEDRO ALEXANDRE CAIADO GONÇALVES,Outro,Faro,5,3,0.6,2.322646800506916,77695.0,26.0,3,In observation
+505170876|506887928,505170876,Município de Lagos,506887928,"CDICEP- Central de Informação, Comunicação, Eventos e Publicações, Lda",Município,Faro,5,3,0.6,2.322646800506916,185320.0,289.0,5,In observation
+505187531|506206173,505187531,Município de Cascais,506206173,JAVALI - Administração e Desenvolvimento de Sistemas,Município,Lisboa,5,3,0.6,2.322646800506916,78694.56,472.0,5,In observation
+505187531|513010661,505187531,Município de Cascais,513010661,NOVA.ID.FCT - Associação para a Inovação e Desenvolvimento da FCT,Município,Lisboa,5,3,0.6,2.322646800506916,125310.54000000001,0.0,4,In observation
+505279460|514519215,505279460,Município de Lousada,514519215,"TekPrivacy, Lda",Município,Porto,5,3,0.6,2.322646800506916,99300.0,314.0,5,In observation
+505309939|503442330,505309939,Município de Portimão,503442330,"PIROTECNIA MINHOTA, LDA.",Município,Faro,5,3,0.6,2.322646800506916,132690.0,360.0,5,In observation
+505335018|510034420,505335018,Município de Vila Nova de Gaia,510034420,"Lusquinhos &amp; Costa - Viagens e Turismo, Lda.",Município,Porto,5,3,0.6,2.322646800506916,127685.0,186.0,4,In observation
+505592940|509181902,505592940,Município de Melgaço,509181902,Velha Lamparina - União de Artes e Ofícios e Recriações Históricas,Município,Viana do Castelo,5,3,0.6,2.322646800506916,111657.0,362.0,5,In observation
+505931192|501564624,505931192,Município de Aveiro,501564624,"A QUINTA DOS COMPADRES - SERVIÇOS DE RESTAURAÇÃO, LDA",Município,Aveiro,5,3,0.6,2.322646800506916,77810.5,359.0,5,In observation
+505948605|506887928,505948605,Município de Guimarães,506887928,"CDICEP - Central de Informação, Comunicação, Eventos e Publicações, Lda.",Município,Braga,5,3,0.6,2.322646800506916,209180.0,2.0,3,In observation
+506037258|510680798,506037258,Município de Viana do Castelo,510680798,"J. BORDADOS, LDA.",Município,,5,3,0.6,2.322646800506916,59832.6,,2,In observation
+506037258|514842091,506037258,Município de Viana do Castelo,514842091,"Flávio Cruz - Produções Audiovisuais, Unipessoal, Lda",Município,Viana do Castelo,5,3,0.6,2.322646800506916,79940.0,112.0,4,In observation
+506159540|515263575,506159540,"Viver Santarém - Desporto e Lazer, E. M., S. A.",515263575,"Marketingable, Lda",Outro,Santarém,5,3,0.6,2.322646800506916,77550.0,8.0,3,In observation
+506187543|515865486,506187543,Município de Palmela,515865486,"Mapas e Esboços - Unipessoal, Lda",Município,Setúbal,5,3,0.6,2.322646800506916,76800.0,216.0,5,In observation
+506215547|515332208,506215547,Municipio de Bragança,515332208,"MACEDAGUASFAS, LDA",Outro,Braganca,5,3,0.6,2.322646800506916,119845.0,39.0,3,In observation
+506321894|514604050,506321894,Município de Olhão,514604050,"Luis Soromenho Gomes Unipessoal, Lda.",Município,Faro,5,3,0.6,2.322646800506916,136800.0,290.0,4,In observation
+506510476|505633469,506510476,Município de Gouveia,505633469,"BERNARDINO CASTRO - SERVIÇOS FESTIVOS, LDA",Município,Guarda,5,3,0.6,2.322646800506916,108450.0,128.0,4,In observation
+506546381|514676272,506546381,Município de Figueiró dos Vinhos,514676272,"RRPROTEC - Soluções Tecnológicas, Lda",Município,Leiria,5,3,0.6,2.322646800506916,77246.0,0.0,4,In observation
+506613399|513530061,506613399,Município de Góis,513530061,"Pedro P. Alves, Pedro J. Alves e Helena Mateus, Sociedade de Advogados, RL",Município,Coimbra,5,3,0.6,2.322646800506916,126000.0,549.0,5,In observation
+506614913|505877287,506614913,Município de Vila Franca de Xira,505877287,"Sulmaré - Empresa de Pesca, Lda",Município,Lisboa,5,3,0.6,2.322646800506916,145873.49,313.0,5,In observation
+506617599|509504345,506617599,Município de Esposende,509504345,ACEAAP - Agência de Competências e Estudos Avançados para a Administração Pública,Município,Braga,5,3,0.6,2.322646800506916,71850.0,415.0,5,In observation
+506632938|500793263,506632938,Município de Paredes de Coura,500793263,Academia de Música de Viana do Castelo - Conservatória Regional do Alto Minho,Município,Viana do Castelo,5,3,0.6,2.322646800506916,90772.12,328.0,5,In observation
+506651541|504682253,506651541,Município de Penedono,504682253,"Manuel Rodrigues, Lurdes Marques, Joaquim Ferreira &amp; Associados - Sociedade de Advogados, R.L.",Município,Viseu,5,3,0.6,2.322646800506916,134400.0,372.0,5,In observation
+506656128|500326517,506656128,Município de Paredes,500326517,"CANDIDO JOSE RODRIGUES, SA",Município,Porto,5,3,0.6,2.322646800506916,129850.0,399.0,5,In observation
+506656128|514871695,506656128,Município de Paredes,514871695,"António Francisco Pinheiro - Engenharia Unipessoal, Lda",Município,Porto,5,3,0.6,2.322646800506916,142790.0,96.0,4,In observation
+506657957|506378802,506657957,Município de Penacova,506378802,"Lugar do Plano, Gestão do Território e Cultura, Lda",Município,Coimbra,5,3,0.6,2.322646800506916,129100.0,53.0,3,In observation
+506673626|509744036,506673626,Município do Barreiro,509744036,INSTITUTO POLÍTICAS PÚBLICAS SOCIAIS,Município,Setúbal,5,3,0.6,2.322646800506916,86500.0,0.0,4,In observation
+506695956|980385253,506695956,Município de Belmonte,980385253,"FCC AQUÁLIA, S.A",Município,Castelo Branco,5,3,0.6,2.322646800506916,191941.92,295.0,5,In observation
+506728897|514728310,506728897,Município de Valença,514728310,"Agenda Urbana - Estudos e Consultoria, Sociedade Unipessoal, Lda.",Município,Viana do Castelo,5,3,0.6,2.322646800506916,102900.0,209.0,5,In observation
+506730573|505613115,506730573,Município de Vila do Bispo,505613115,Quinta do Jugais - Comércio de Produtos Alimentares Lda.,Município,Faro,5,3,0.6,2.322646800506916,91597.6,358.0,5,In observation
+506735524|508375266,506735524,Município de Vale de Cambra,508375266,"JUST LIKE YOU, UNIPESSOAL, LDA",Município,Aveiro,5,3,0.6,2.322646800506916,139620.0,364.0,5,In observation
+506738914|514986212,506738914,Município de Tomar,514986212,"Cabreira Solutions, Lda",Município,Santarém,5,3,0.6,2.322646800506916,96997.0,148.0,4,In observation
+506804240|504030680,506804240,Município de Lagoa,504030680,"Pedra Base, Formação Lda.",Município,Faro,5,3,0.6,2.322646800506916,84760.0,392.0,5,In observation
+506822680|507523903,506822680,Município de Tondela,507523903,"Bdux Consulting, Lda",Município,Viseu,5,3,0.6,2.322646800506916,83850.0,193.0,5,In observation
+506823318|502338547,506823318,Município de Grândola,502338547,PARQUES E JARDINS- PROJECTOS E CONSTRUÇÃO LDA,Município,Setúbal,5,3,0.6,2.322646800506916,175493.97999999998,162.0,4,In observation
+506829260|513648380,506829260,Município do Peso da Régua,513648380,Parametro Luminoso Unipessoal Lda,Município,Vila Real,5,3,0.6,2.322646800506916,108435.0,171.0,4,In observation
+506833224|504474170,506833224,Município de Vila Real de Santo António,504474170,"FNWAY - Consulting, Lda.",Município,Faro,5,3,0.6,2.322646800506916,134150.0,0.0,3,In observation
+506834166|505261898,506834166,Município de Nelas,505261898,"Marques de Almeida J. Nunes V. Simões &amp; Associados, SROC, S.A.",Município,Viseu,5,3,0.6,2.322646800506916,71940.0,367.0,5,In observation
+506901173|504041266,506901173,Município de Braga,504041266,"INOVA+ - Innovation Services, S.A.",Município,Braga,5,3,0.6,2.322646800506916,118830.0,100.0,4,In observation
+507019997|UNKNOWN,507019997,FREGUESIA DE FIÃES,,António José Alves Pinto,Freguesia,Aveiro,5,3,0.6,2.322646800506916,113040.0,363.0,5,In observation
+507021266|502726890,507021266,Entidade Reguladora da Saúde,502726890,"Inetum Tech Portugal, S.A.",Outro,Porto,5,3,0.6,2.322646800506916,126862.76,1.0,4,In observation
+507236335|500853975,507236335,"Taviraverde - Empresa Municipal de Ambiente, E. M.",500853975,"Manuel Rui Azinhais Nabeiro, Lda",Outro,Faro,5,3,0.6,2.322646800506916,140318.43,316.0,4,In observation
+507299523|502210753,507299523,Freguesia de Espite,502210753,"Agriportela - Sociedade Agrícola Portela &amp; Filhos, Lda.",Freguesia,Santarém,5,3,0.6,2.322646800506916,99207.0,321.0,5,In observation
+507396081|513015175,507396081,"EMAC - Empresa Municipal de Ambiente de Cascais, E. M., S. A.",513015175,"EMRC Consulting, Lda",Outro,Lisboa,5,3,0.6,2.322646800506916,99210.0,294.0,5,In observation
+507566343|513434631,507566343,"Óbidos Criativa, E. M.",513434631,"CAVALEIROS E FALCOEIROS D`RIBADOURO, LDA.",Outro,Leiria,5,3,0.6,2.322646800506916,89900.0,370.0,5,In observation
+508100496|503552461,508100496,"CENTRO HOSP. DE TRÁS-OS-MONTES E ALTO DOURO, EPE",503552461,"Smith &amp; Nephew, Lda.",Outro,Vila Real,5,3,0.6,2.322646800506916,82031.37,55.0,4,In observation
+508142156|510306802,508142156,"Centro Hospitalar Vila Nova de Gaia - Espinho, E. P. E.",510306802,Active Sys,Hospital,Porto,5,3,0.6,2.322646800506916,112220.0,135.0,3,In observation
+508313694|504104020,508313694,ACA - Associação Casa da Arquitectura,504104020,"RAMALHO &amp; REBELO DESIGN, LDA",Outro,Porto,5,3,0.6,2.322646800506916,72280.0,50.0,4,In observation
+508808324|502801034,508808324,Entidade Regional de Turismo do Centro de Portugal,502801034,"Cofina Média, S.A.",Outro,,5,3,0.6,2.322646800506916,79634.76,267.0,5,In observation
+509584888|500077568,509584888,"Vitrus Ambiente, E. M., S. A.",500077568,"CTT - Correios de Portugal, S.A.",Outro,Braga,5,3,0.6,2.322646800506916,241071.96,27.0,4,In observation
+509960316|UNKNOWN,509960316,Ordem dos Nutricionistas,,CATHERINE ALVES PEREIRA,Outro,Porto,5,3,0.6,2.322646800506916,175500.0,25.0,3,In observation
+510133088|512060924,510133088,Associação Nonagon - Parque de Ciência e Tecnologia de S. Miguel,512060924,"FIT - Fabrico e Instalações Técnicas, Ldª",Outro,Região Autónoma dos Açores,5,3,0.6,2.322646800506916,97632.0,343.0,4,In observation
+510832873|513136282,510832873,Freguesia de Areeiro,513136282,"Create &amp; Care, Lda.",Freguesia,Lisboa,5,3,0.6,2.322646800506916,180397.99,222.0,4,In observation
+510833071|504932756,510833071,Junta de Freguesia de Encosta do Sol,504932756,"Solgarden, Lda.",Freguesia,Lisboa,5,3,0.6,2.322646800506916,154248.0,0.0,3,In observation
+511228848|508033128,511228848,"Serviço de Saúde da Região Autónoma da Madeira, E. P. E.",508033128,FARDIOPOT,Outro,Região Autónoma da Madeira,5,3,0.6,2.322646800506916,165530.0,159.0,4,In observation
+511236417|511081200,511236417,Município da Ribeira Brava,511081200,"CARTONADA - Papelaria, Lda",Município,Região Autónoma da Madeira,5,3,0.6,2.322646800506916,97490.77,356.0,5,In observation
+513025766|507830458,513025766,Comunidade Intermunicipal das Beiras e Serra da Estrela,507830458,Marca Liquida - Produções Lda,Outro,Guarda,5,3,0.6,2.322646800506916,159140.0,172.0,3,In observation
+513606084|513191810,513606084,"Águas do Norte, S. A.",513191810,"H2OPT, Lda",Outro,Vila Real,5,3,0.6,2.322646800506916,167724.0,30.0,3,In observation
+515545180|502604751,515545180,"Hospital de Braga, E. P. E.",502604751,"NOS COMUNICAÇÕES, SA",Hospital,Braga,5,3,0.6,2.322646800506916,83621.8,0.0,2,In observation
+517622610|501989978,517622610,"Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo, I. P.",501989978,Quidgest-Consultores de Gestão S.A.,Outro,Lisboa,5,3,0.6,2.322646800506916,62703.2,28.0,2,In observation
+600011712|512044635,600011712,Polícia Judiciária,512044635,"GALP Açores, SA",Outro,Região Autónoma dos Açores,5,3,0.6,2.322646800506916,66207.12,322.0,5,In observation
+600015270|510798381,600015270,Escola Secundária de Penafiel,510798381,"Páginas de Razão, Padaria e Pastelaria, Lda.",Outro,Porto,5,3,0.6,2.322646800506916,113218.9,343.0,5,In observation
+600021610|509596452,600021610,Estado-Maior do Exército,509596452,Riopele Fashion Solutions S.A.,Outro,Santarém,5,3,0.6,2.322646800506916,87418.78,0.0,2,In observation
+600080781|508808766,600080781,"Agrupamento de Escolas de Almancil, Loulé",508808766,"Falquimica Unipessoal,Lda",Outro,Faro,5,3,0.6,2.322646800506916,102682.32,314.0,5,In observation
+600081060|501476180,600081060,Agrupamento de Escolas de Fronteira,501476180,"Aviludo - Indústria e Comércio de Produtos Alimentares, S.A.",Outro,Portalegre,5,3,0.6,2.322646800506916,90812.43,322.0,5,In observation
+600081125|515064866,600081125,Secretaria Geral da Economia,515064866,"FOLLOW ASTERISK - SOCIEDADE DE SERVIÇOS INFORMÁTICOS, LDA",Outro,Lisboa,5,3,0.6,2.322646800506916,87686.0,112.0,4,In observation
+600082490|510401040,600082490,Autoridade Nacional de Protecção Civil,510401040,"Uniksystem, Lda",Outro,Lisboa,5,3,0.6,2.322646800506916,98801.0,339.0,4,In observation
+600086607|508808766,600086607,"Agrupamento de Escolas de Albufeira Poente, Albufeira",508808766,Falquímica,Outro,Faro,5,3,0.6,2.322646800506916,107375.83,0.0,4,In observation
+680012907|503989150,680012907,Serviços Municipalizados de Saneamento Básico de Viana do Castelo,503989150,"MESQUITA GUIMARÃES - AGRO FLORESTAL, LDA",Outro,Viana do Castelo,5,3,0.6,2.322646800506916,97165.0,192.0,5,In observation
+501102752|510610404,501102752,Município de Amarante,510610404,"Páginas e Coordenadas, Lda",Município,Porto,7,4,0.5714285714285714,2.2002467218346924,124000.0,0.0,1,In observation
+501112049|515389064,501112049,Município de Serpa,515389064,"Rascunho Invisível - Comunicação e Markting, Ldª",Município,Beja,7,4,0.5714285714285714,2.2002467218346924,156132.0,70.0,5,In observation
+501306269|504378007,501306269,Município de Ovar,504378007,"LOGDOMUS - CONSTRUÇÕES, LDA",Município,Aveiro,7,4,0.5714285714285714,2.2002467218346924,174598.0,330.0,7,In observation
+501559094|505471035,501559094,Universidade Nova de Lisboa,505471035,Falcão de Campos Arquitecto Lda.,Outro,Lisboa,7,4,0.5714285714285714,2.2002467218346924,118270.0,45.0,4,In observation
+505181266|514932589,505181266,Município de Leiria,514932589,NATIVEWARRIORS UNIPESSOAL LDA,Município,Leiria,7,4,0.5714285714285714,2.2002467218346924,183650.0,0.0,4,In observation
+505456010|500246530,505456010,Município da Amadora,500246530,SERVISAN PRODUTOS HIGIENE SA,Município,Lisboa,7,4,0.5714285714285714,2.2002467218346924,216561.44,0.0,3,In observation
+505592959|502784164,505592959,Município de Fornos de Algodres,502784164,"Multiaveiro, Projetos de Formação e Investimento, L.da",Município,Guarda,7,4,0.5714285714285714,2.2002467218346924,118209.75,196.0,6,In observation
+506605930|508930782,506605930,Município de Ansião,508930782,"Jorge Coutinho, Lda",Município,Leiria,7,4,0.5714285714285714,2.2002467218346924,126300.0,260.0,7,In observation
+506663264|514717610,506663264,Município de Vila Nova de Famalicão,514717610,"MALVALUNAR UNIPESSOAL, LDA",Município,Braga,7,4,0.5714285714285714,2.2002467218346924,204154.0,0.0,5,In observation
+506697339|502217243,506697339,Município de Macedo de Cavaleiros,502217243,COOPINFORMAÇÃO E CULTURA MACEDO CAVALEIROS,Município,Braganca,7,4,0.5714285714285714,2.2002467218346924,185000.0,323.0,7,In observation
+506753905|510170641,506753905,Município de Tarouca,510170641,"Cinebox, Lda",Município,Viseu,7,4,0.5714285714285714,2.2002467218346924,148925.0,265.0,6,In observation
+506783146|513853855,506783146,Município de Albergaria-a-Velha,513853855,"Nuno Zamaro, Lda",Município,Aveiro,7,4,0.5714285714285714,2.2002467218346924,139200.0,74.0,6,In observation
+506818829|502413603,506818829,Município de Oliveira do Hospital,502413603,"PH - Informática e Micro Sistemas, S.A.",Hospital,Coimbra,7,4,0.5714285714285714,2.2002467218346924,156000.0,176.0,7,In observation
+506851168|515521108,506851168,Município de Mogadouro,515521108,Sabedoria Aderente - Unipessoal Lda.,Município,Braganca,7,4,0.5714285714285714,2.2002467218346924,147180.0,343.0,5,In observation
+506852032|503195758,506852032,Município de Sernancelhe,503195758,"CGTA - Centro Tecnologico de Gestão Ambiental, Lda",Município,Viseu,7,4,0.5714285714285714,2.2002467218346924,130404.84,63.0,6,In observation
+506882713|505078449,506882713,Município de Sátão,505078449,Macroconstrução - comércio de materiais de construção  Lda,Município,Viseu,7,4,0.5714285714285714,2.2002467218346924,127385.9,175.0,6,In observation
+506884937|510502890,506884937,Município de Freixo de Espada à Cinta,510502890,"António Louças, Unipessoal, Lda.",Município,Braganca,7,4,0.5714285714285714,2.2002467218346924,174817.75,239.0,6,In observation
+506886964|515212261,506886964,Município de Boticas,515212261,"LIVRARIA PAPELARIA SUPERSÓNICA, UNIPESSOAL, LDA.",Município,Vila Real,7,4,0.5714285714285714,2.2002467218346924,140187.43,356.0,7,In observation
+506892646|510170641,506892646,Município de São João da Pesqueira,510170641,"CINEBOX, LDA",Município,Viseu,7,4,0.5714285714285714,2.2002467218346924,115525.0,299.0,7,In observation
+507330609|508984629,507330609,Freguesia de Marvila,508984629,"Saudades Sénior Unipessoal, Lda.",Freguesia,Lisboa,7,4,0.5714285714285714,2.2002467218346924,180450.0,300.0,6,In observation
+508094461|502772298,508094461,"Unidade Local de Saúde do Norte Alentejano, E. P. E.",502772298,"SISQUAL - E,PRESA DE INV. E DESENV DE SISTEMAS INFORMÁTICOS",Hospital,Portalegre,7,4,0.5714285714285714,2.2002467218346924,141954.0,248.0,7,In observation
+508354617|504344285,508354617,Comunidade Intermunicipal da Região de Coimbra,504344285,"Sérvulo &amp; Associados - Sociedade de Advogados, S.P., R.L.",Outro,Coimbra,7,4,0.5714285714285714,2.2002467218346924,163025.0,83.0,6,In observation
+513606084|502991771,513606084,"Águas do Norte, S. A.",502991771,"Nuno Cerejeira Namora, Pedro Marinho Falcão &amp; Associados, Soc. de Advogados, RL",Outro,Vila Real,7,4,0.5714285714285714,2.2002467218346924,271688.0,57.0,5,In observation
+515332607|500135932,515332607,"RSTJ - Gestão e Tratamento Resíduos, E. I. M., S. A.",500135932,Ibermetais S.A,Outro,Santarém,7,4,0.5714285714285714,2.2002467218346924,133570.0,156.0,5,In observation
+600076008|502295864,600076008,Agrupamento de Escolas de Cinfães,502295864,"ANTONIO DE SOUSA MONTEIRO &amp; FILHOS, LDA",Outro,Viseu,7,4,0.5714285714285714,2.2002467218346924,134402.7,354.0,7,In observation
+600076954|509504949,600076954,"Agrupamento de Escolas Domingos Sequeira, Leiria",509504949,"Pink Frog, Lda",Outro,Leiria,7,4,0.5714285714285714,2.2002467218346924,136032.0,261.0,7,In observation
+600088103|UNKNOWN,600088103,Secretaria-Geral do Governo,,Integrated Biometrics LCC,Outro,Lisboa,7,4,0.5714285714285714,2.2002467218346924,280500.0,0.0,1,In observation
+680017763|503075736,680017763,Serviços Municipalizados de Água e Saneamento de Almada,503075736,"A2O – Água, Ambiente e Organização, Lda.",Outro,Setúbal,7,4,0.5714285714285714,2.2002467218346924,114001.83,171.0,5,In observation
+509186998|503047201,509186998,"Centro Hospitalar Barreiro Montijo, E. P. E.",503047201,"C S L BEHRING UNIPESSOAL,LDA.",Hospital,Setúbal,42,22,0.5238095238095238,1.9962465907143196,879279.8500000001,0.0,7,In observation
+500051054|513229248,500051054,Câmara Municipal de Almada,513229248,"WAYMOTION, LDA:",Município,Setúbal,6,3,0.5,1.8942465251541332,183430.0,245.0,5,In observation
+500051062|502137770,500051062,Município de Sintra,502137770,"CONTENUR Portugal-Industria e Comercio de Materiais Plasticos, SA",Município,Lisboa,6,3,0.5,1.8942465251541332,110134.0,40.0,6,In observation
+500051070|501913769,500051070,Município de Lisboa,501913769,"Pinkplate Impressão, S.A.",Município,Lisboa,6,3,0.5,1.8942465251541332,115723.0,46.0,5,In observation
+500225680|514896981,500225680,"Rádio e Televisão de Portugal, S. A.",514896981,"Villa Prata - Design e Eventos, Lda.",Outro,Lisboa,6,3,0.5,1.8942465251541332,104660.79,170.0,5,In observation
+500745943|514850108,500745943,Município de Oeiras,514850108,"EFW Consulting - Engenheiros Consultores, Lda.",Município,Lisboa,6,3,0.5,1.8942465251541332,142179.0,211.0,5,In observation
+500792771|514119667,500792771,Banco de Portugal,514119667,"Human2Human - Consultores de Recursos Humanos, Lda.",Outro,Lisboa,10,5,0.5,1.8942465251541332,632669.0,8.0,6,In observation
+501091823|504747215,501091823,Município de Felgueiras,504747215,"Manuel Nunes da Costa, Lda",Município,Porto,6,3,0.5,1.8942465251541332,119030.4,288.0,6,In observation
+501091823|506378802,501091823,Município de Felgueiras,506378802,"Lugar do Plano - Gestão do Território e Cultura, Lda.",Município,Porto,6,3,0.5,1.8942465251541332,88100.0,201.0,5,In observation
+501129103|506126790,501129103,Município de Mora,506126790,"Pocalentejo, Apoio Contabilístico, Fiscal, Informático e Formação, Lda",Município,Évora,6,3,0.5,1.8942465251541332,81000.0,231.0,5,In observation
+501138960|508919061,501138960,Município de Valongo,508919061,"Lusoinfo II, multimédia, S.A.",Município,Porto,8,4,0.5,1.8942465251541332,190540.52,9.0,5,In observation
+501176080|515771473,501176080,"Instituto dos Vinhos do Douro e do Porto, I. P.",515771473,"ISAÍAS SA BARBOSA, UNIPESSOAL, LDA.",Instituto,Vila Real,6,3,0.5,1.8942465251541332,89250.13,35.0,2,In observation
+501190082|501916997,501190082,Município de Estarreja,501916997,Associação de Andebol de Aveiro,Município,Aveiro,6,3,0.5,1.8942465251541332,97500.0,253.0,6,In observation
+501227490|513924256,501227490,Município de Ferreira do Alentejo,513924256,"Terra Graciosa Unipessoal,  Lda",Município,Beja,6,3,0.5,1.8942465251541332,212962.0,92.0,3,In observation
+501275380|500917477,501275380,Município de Condeixa-a-Nova,500917477,Casa do Frio,Município,Coimbra,8,4,0.5,1.8942465251541332,155387.94,140.0,6,In observation
+501288120|504615947,501288120,Município de Alvito,504615947,"Meo-Serviços de Comunicações e Multimédia, S.A",Município,Beja,6,3,0.5,1.8942465251541332,95517.98000000001,0.0,3,In observation
+501294996|504747185,501294996,Município de Loures,504747185,RTS - Cooperativa Rádio Táxis,Município,Lisboa,6,3,0.5,1.8942465251541332,194001.36,0.0,3,In observation
+501294996|510728189,501294996,Município de Loures,510728189,"Iten Solutions - Sistemas de Informação , S.A",Município,Lisboa,6,3,0.5,1.8942465251541332,159337.58000000002,134.0,5,In observation
+501305564|508203937,501305564,Município da Chamusca,508203937,"RFP Audiovisuais - Imagem e Comunicação, Lda",Município,Santarém,6,3,0.5,1.8942465251541332,94480.0,347.0,6,In observation
+501305912|500243719,501305912,Município de Matosinhos,500243719,Securitas-Serviços de tecnologias e vigilância S.A,Município,Porto,6,3,0.5,1.8942465251541332,378394.76,0.0,4,In observation
+501306099|500912645,501306099,Município do Porto,500912645,Ernst &amp; Young S.A.,Município,Porto,6,3,0.5,1.8942465251541332,266433.0,47.0,4,In observation
+501306099|501860584,501306099,Município do Porto,501860584,"Manuel Fernandes de Sá, Lda.",Município,Porto,6,3,0.5,1.8942465251541332,199392.0,340.0,6,In observation
+501306099|505046547,501306099,Município do Porto,505046547,"Linkcom, Sistemas de Informação, S.A.",Município,Porto,6,3,0.5,1.8942465251541332,382992.9,39.0,5,In observation
+501306870|507650387,501306870,Município de Santo Tirso,507650387,"SKILLMIND - CONSULTADORIA E SISTEMAS DE INFORMAÇÃO, SA",Município,Porto,6,3,0.5,1.8942465251541332,458444.0,196.0,5,In observation
+501328599|506210855,501328599,Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF),506210855,"RELOAD – CONSULTORIA INFORMÁTICA, LDA.",Outro,Lisboa,6,3,0.5,1.8942465251541332,245101.3,183.0,4,In observation
+501413197|503183997,501413197,Universidade do Porto,503183997,LACTOGAL - PRODUTOS ALIMENTARES S A,Outro,Porto,6,3,0.5,1.8942465251541332,136361.88,74.0,5,In observation
+501442600|501413197,501442600,Centro de Emprego e Formação Profissional do Porto,501413197,Universidade do Porto,Outro,Porto,6,3,0.5,1.8942465251541332,107985.0,4.0,3,In observation
+501442600|504060775,501442600,"Instituto do Emprego e Formação Profissional, IP",504060775,"55 - Engenharia e Gestão Projecto, Ld.ª",Instituto,Guarda,8,4,0.5,1.8942465251541332,152605.0,7.0,5,In observation
+501461108|507491300,501461108,Universidade de Aveiro,507491300,"Bullet Solutions - Sistemas de Informação, S.A.",Outro,Aveiro,6,3,0.5,1.8942465251541332,177725.0,134.0,6,In observation
+501559094|502768118,501559094,Universidade Nova de Lisboa,502768118,"Sagies-Segurança, Higiene e Saúde no Trabalho, S.A.",Outro,Lisboa,6,3,0.5,1.8942465251541332,202806.2,0.0,3,In observation
+502083514|514204036,502083514,Universidade da Beira Interior,514204036,Editora Hogrefe Lda,Outro,Castelo Branco,8,4,0.5,1.8942465251541332,172800.0,323.0,8,In observation
+502098139|515956279,502098139,Município de Loulé,515956279,JINGLE MINDS ATIVIDADES CULTURAIS ARTISTICAS E CREATIVAS UNIPESSOAL LDA,Município,Faro,6,3,0.5,1.8942465251541332,214230.0,109.0,4,In observation
+502173653|502680440,502173653,Município de Torres Vedras,502680440,"Empreitorres - Empreiteiros de Obras Públicas, Lda",Município,Lisboa,8,4,0.5,1.8942465251541332,315235.7,65.0,6,In observation
+502280301|515201073,502280301,NERBE/AEBAL - Associação Empresarial do Baixo Alentejo e Litoral,515201073,"CH Global Network, Lda",Outro,Beja,6,3,0.5,1.8942465251541332,104400.0,0.0,3,In observation
+502661038|501378669,502661038,Município de Abrantes,501378669,AIRC - Associação de Informática da Região Centro,Município,Santarém,6,3,0.5,1.8942465251541332,160140.69,359.0,6,In observation
+502661038|501426230,502661038,Município de Abrantes,501426230,"ICA – Indústria e Comércio Alimentar, SA",Município,Santarém,8,4,0.5,1.8942465251541332,388805.63,10.0,4,In observation
+502662875|502609982,502662875,Faculdade Medicina Universidade de Lisboa,502609982,"Lusodoc-Documentação Técnico-Científica, Lda",Outro,Lisboa,6,3,0.5,1.8942465251541332,119653.0,245.0,6,In observation
+502704977|510558739,502704977,Município de Sever do Vouga,510558739,AGIM - Associação Para os Pequenos Frutos e Inovação Empresarial,Município,Aveiro,8,4,0.5,1.8942465251541332,214855.0,341.0,8,In observation
+503035416|506348989,503035416,"Hospital Professor Doutor Fernando Fonseca, E. P. E.",506348989,"A.P.C.-Com.Papel Plást.,SocUnip.Ld",Hospital,Lisboa,6,3,0.5,1.8942465251541332,105583.8,,1,In observation
+503148776|502766883,503148776,"Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P.",502766883,"SADO RENT - Automóveis de Aluguer Sem Condutor, S.A.",Outro,Lisboa,6,3,0.5,1.8942465251541332,63565.409999999996,7.0,3,In observation
+503410764|UNKNOWN,503410764,Alentejo XXI - Associação de Desenvolvimento Integrado do Meio Rural,,Daniel Filipe Pinto Guerreiro,Outro,Beja,6,3,0.5,1.8942465251541332,106955.0,0.0,2,In observation
+503584215|510883265,503584215,"EGEAC - Empresa de Gestão de Equipamentos e Animação Cultural, E. M., S. A.",510883265,"ZX - CONSTRUÇÕES, UNIPESSOAL, LDA",Outro,Lisboa,6,3,0.5,1.8942465251541332,136782.01,21.0,5,In observation
+503671320|502696648,503671320,"Metro Mondego, S.A.",502696648,"GONÇALO BYRNE, ARQUITECTOS, LDA.",Outro,Coimbra,6,3,0.5,1.8942465251541332,117878.0,43.0,4,In observation
+503830704|505253739,503830704,"Infraquinta - Empresa de Infraestruturas da Quinta do Lago, E. M.",505253739,"Pra - Raposo, Sá Miranda &amp; Associados - Sociedade de Advogados, Sp, Rl",Outro,Faro,6,3,0.5,1.8942465251541332,89540.0,18.0,5,In observation
+503830704|506555658,503830704,"Infraquinta - Empresa de Infraestruturas da Quinta do Lago, E. M.",506555658,"Vestiprotege - Vestuário e artigos de proteção individual, Lda.",Outro,Faro,6,3,0.5,1.8942465251541332,83976.16,0.0,5,In observation
+503933813|502930462,503933813,"Infraestruturas de Portugal, S. A.",502930462,"Espaço Mecânico, S.A.",Outro,Portugal Continental,10,5,0.5,1.8942465251541332,227610.07,42.0,8,In observation
+503933813|504136992,503933813,"Infraestruturas de Portugal, S.A.",504136992,"EGOR CONSULTING - Desenvolvimento de Pessoas e Negócios, Lda",Outro,Portugal Continental,6,3,0.5,1.8942465251541332,199428.55,24.0,4,In observation
+503933813|514119667,503933813,"Infraestruturas de Portugal, S. A.",514119667,"Human2Human - Consultores de Recursos Humanos, Lda.",Outro,Portugal Continental,6,3,0.5,1.8942465251541332,93504.9,202.0,5,In observation
+504041193|501890793,504041193,"Infralobo - Empresa de Infra-Estruturas de Vale do Lobo, E. M.",501890793,"ALBOMBAS - Sociedade de Bombas do Sul, Lda.",Outro,Faro,8,4,0.5,1.8942465251541332,112935.4,0.0,5,In observation
+504443127|501990909,504443127,"Coopetape - Cooperativa de Ensino, C. R. L.",501990909,"MSL Mediadora Seguros do Lima, Lda",Outro,Viana do Castelo,6,3,0.5,1.8942465251541332,156316.41,356.0,6,In observation
+504703129|500122857,504703129,"AMBISOUSA - Empresa Intermunicipal de Tratamento e Gestão de Residuos Sólidos, E.I.M.",500122857,G HOFLE LDA,Outro,Porto,6,3,0.5,1.8942465251541332,246135.0,24.0,4,In observation
+505187531|504030680,505187531,Câmara Municipal de Cascais,504030680,"Pedra Base, Formação Lda.",Município,Lisboa,6,3,0.5,1.8942465251541332,91110.0,0.0,5,In observation
+505309939|515313246,505309939,Município de Portimão,515313246,EMBLEMATIKALICERCE,Município,Faro,6,3,0.5,1.8942465251541332,223440.0,34.0,5,In observation
+505322730|500649340,505322730,"EMARP - Empresa Municipal de Águas e Resíduos de Portimão, E. M., S. A.",500649340,"José de Sousa Barra &amp; Filhos, Lda.",Outro,Faro,6,3,0.5,1.8942465251541332,106420.0,270.0,6,In observation
+505335018|500122237,505335018,Município de Vila Nova de Gaia,500122237,Fundação INATEL,Município,Porto,6,3,0.5,1.8942465251541332,75450.0,14.0,5,In observation
+505335018|507037952,505335018,Município de Vila Nova de Gaia,507037952,"RPTOP - PROJECTOS DE ESPECIALIDADES MECANICAS PARA CONSTRUÇÃO CIVIL,LDA.",Município,Porto,6,3,0.5,1.8942465251541332,434240.0,26.0,4,In observation
+505335018|509823378,505335018,Município de Vila Nova de Gaia,509823378,Ritmos Fortes Unipessoal LDA,Município,Porto,6,3,0.5,1.8942465251541332,171896.99,0.0,5,In observation
+505592959|502626968,505592959,Município de Fornos de Algodres,502626968,"Sistema 4, L.da",Município,Guarda,6,3,0.5,1.8942465251541332,92210.17,233.0,4,In observation
+505931192|500773246,505931192,Município de Aveiro,500773246,"FCB LISBOA, LDA",Município,Aveiro,6,3,0.5,1.8942465251541332,225448.7,1.0,5,In observation
+505931192|509032184,505931192,Município de Aveiro,509032184,"Ideias com Pernas, Lda.",Município,Aveiro,6,3,0.5,1.8942465251541332,106906.56,203.0,4,In observation
+506149811|513434437,506149811,Município de Montalegre,513434437,"BAPTISTA &amp; TOMÁZ - Arquitetos, Lda.",Município,Vila Real,6,3,0.5,1.8942465251541332,250750.0,71.0,3,In observation
+506173968|502021128,506173968,Município do Seixal,502021128,"PROENGEL - Projectos de Engenharia e Arquitectura, Lda.",Município,Setúbal,6,3,0.5,1.8942465251541332,254600.0,70.0,3,In observation
+506215547|501421491,506215547,Municipio de Bragança,501421491,"M.N.RAMOS FERREIRA, ENGENHARIA, S.A",Outro,Braganca,6,3,0.5,1.8942465251541332,105670.76,258.0,6,In observation
+506321894|501375570,506321894,Município de Olhão,501375570,Sporting Clube Olhanense (jornal,Município,Faro,6,3,0.5,1.8942465251541332,65550.0,0.0,3,In observation
+506321894|502075090,506321894,Município de Olhão,502075090,"Arcol, S.A",Município,Faro,6,3,0.5,1.8942465251541332,83115.13,365.0,5,In observation
+506361616|508192943,506361616,"Instituto Português de Oncologia de Lisboa Francisco Gentil, E. P. E.",508192943,"BTL PORTUGAL UNIPESSOAL, LDA.",Instituto,Lisboa,8,4,0.5,1.8942465251541332,258600.0,18.0,2,In observation
+506361659|501524177,506361659,"Centro Hospitalar Cova da Beira, E. P. E.",501524177,BIOMERIEUX PORTUGAL,Hospital,Castelo Branco,6,3,0.5,1.8942465251541332,136450.0,53.0,5,In observation
+506415082|500005605,506415082,Município de Coimbra,500005605,"Diário de Coimbra, Lda",Município,Coimbra,8,4,0.5,1.8942465251541332,129748.75,173.0,7,In observation
+506510476|513781978,506510476,Município de Gouveia,513781978,territorio XXI,Município,Guarda,6,3,0.5,1.8942465251541332,244800.0,6.0,5,In observation
+506566307|500142459,506566307,"AC, Águas de Coimbra, EM",500142459,"Windpark, Ldª  ( Santo António dos Olivais)",Outro,Coimbra,8,4,0.5,1.8942465251541332,127245.0,94.0,5,In observation
+506609553|502375051,506609553,Município de Montemor-o-Novo,502375051,"Janela Indiscreta - Sociedade de Comunicação, Lda",Município,Évora,6,3,0.5,1.8942465251541332,122580.0,300.0,6,In observation
+506625419|510163289,506625419,Município de Almeida,510163289,"CATCHAWARDS CONSULTORIA E ORGANIZAÇÃO DE EVENTOS UNIPESSOAL, LDA",Município,Guarda,6,3,0.5,1.8942465251541332,113700.0,227.0,6,In observation
+506656128|508393400,506656128,Município de Paredes,508393400,"RICARDO BEXIGA, OLIVEIRA E SILVA &amp; ASSOCIADOS - SOC. DE ADVOGADOS RL",Município,Porto,8,4,0.5,1.8942465251541332,254960.0,230.0,7,In observation
+506673626|509624499,506673626,Município do Barreiro,509624499,"Miltubos, Lda.",Município,Setúbal,6,3,0.5,1.8942465251541332,124970.57,41.0,3,In observation
+506673626|510823416,506673626,Município do Barreiro,510823416,"Push Safety, Lda.",Município,Setúbal,6,3,0.5,1.8942465251541332,210480.8,175.0,5,In observation
+506695956|508888107,506695956,Município de Belmonte,508888107,"MAKE PROGRESS - CONSULTING, LDA",Município,Castelo Branco,8,4,0.5,1.8942465251541332,289150.0,139.0,6,In observation
+506695956|510784879,506695956,Município de Belmonte,510784879,"LUIS, JOAQUIM &amp; CARLA MARTINS, LDA",Município,Castelo Branco,6,3,0.5,1.8942465251541332,223711.03999999998,96.0,5,In observation
+506697339|502556129,506697339,Município de Macedo de Cavaleiros,502556129,CFA,Município,Braganca,6,3,0.5,1.8942465251541332,177950.0,113.0,6,In observation
+506716210|513618716,506716210,Município de Castro Daire,513618716,"Vasco &amp; Poças - Arquitetura e Engenharia, Lda",Município,Viseu,6,3,0.5,1.8942465251541332,185650.0,0.0,4,In observation
+506722422|510808182,506722422,Município de Coruche,510808182,"Fernando Lopes Morais, Unipessoal, Ldª.",Município,Santarém,8,4,0.5,1.8942465251541332,136950.94,278.0,8,In observation
+506738914|514014970,506738914,Município de Tomar,514014970,Next Solution Lda,Município,Santarém,6,3,0.5,1.8942465251541332,94700.0,228.0,6,In observation
+506741400|513373934,506741400,Município da Póvoa de Varzim,513373934,"Venancio &amp; Morais, LDA.",Município,Porto,6,3,0.5,1.8942465251541332,478611.39,35.0,3,In observation
+506811883|503821012,506811883,Município de Pampilhosa da Serra,503821012,Sociedade Portuguesa de Inovação - Consultoria Empresarial e Fomento da Inovação S.A,Município,Coimbra,6,3,0.5,1.8942465251541332,130126.0,343.0,6,In observation
+506814343|513436545,506814343,Município de Mação,513436545,"Terrisirga Território &amp; Redes, Ldª",Município,Santarém,8,4,0.5,1.8942465251541332,372050.0,216.0,6,In observation
+506816184|501558780,506816184,Município de Almodôvar,501558780,"Silva e Rodrigues, Ldª",Município,Beja,8,4,0.5,1.8942465251541332,143838.25,51.0,7,In observation
+506818098|504990926,506818098,Município de Ribeira de Pena,504990926,"Medidata.Net - Sistemas de Informação para Autarquias, S.A.",Município,Vila Real,10,5,0.5,1.8942465251541332,186912.48,149.0,6,In observation
+506823318|503653179,506823318,Município de Grândola,503653179,"NAUTILUS - INDUSTRIA E COMERCIO DE MOBILIÁRIO, SA",Município,Setúbal,6,3,0.5,1.8942465251541332,119356.12,0.0,4,In observation
+506823318|513081380,506823318,Município de Grândola,513081380,GANHARDESTAK LDA,Município,Setúbal,6,3,0.5,1.8942465251541332,132710.0,282.0,6,In observation
+506826961|514638001,506826961,Município de Monchique,514638001,"Correia &amp; Correia Iluminações Festivas, Ldª",Município,Faro,6,3,0.5,1.8942465251541332,117815.0,327.0,5,In observation
+506866432|502289929,506866432,"Porto Vivo, SRU - Sociedade de Reabilitação Urbana da Baixa Portuense, S. A.",502289929,"PLMJ ADVOGADOS, SP, RL",Outro,Porto,14,7,0.5,1.8942465251541332,215520.0,2.0,7,In observation
+506954994|508920680,506954994,Freguesia de Espinho,508920680,"Rico Jardim - Unipessoal, Lda",Freguesia,Aveiro,8,4,0.5,1.8942465251541332,245440.0,0.0,5,In observation
+506985814|UNKNOWN,506985814,Freguesia de Selho (São Cristóvão),,ORLANDO FARIA DE ABREU,Freguesia,Braga,6,3,0.5,1.8942465251541332,88050.0,0.0,3,In observation
+507023129|509848141,507023129,"Lisboa Ocidental, SRU - Sociedade de Reabilitação Urbana E. M., S. A.",509848141,"GIMA PROJECTOS - ARQUITETURA E ENGENHARIA, LDA.",Outro,Lisboa,6,3,0.5,1.8942465251541332,122400.0,50.0,3,In observation
+507236335|514611421,507236335,"Taviraverde - Empresa Municipal de Ambiente, E. M.",514611421,"ESTÚDIO D1 - SOLUÇÕES DE MANUTENÇÃO E EQUIPAMENTO PARA RESÍDUOS, LDA",Outro,Faro,6,3,0.5,1.8942465251541332,109775.35,56.0,5,In observation
+507564243|510489168,507564243,Freguesia de Corroios,510489168,LUIS GRAÇA - UNIPESSOAL LDA,Freguesia,Setúbal,8,4,0.5,1.8942465251541332,143683.03999999998,0.0,4,In observation
+507606787|509100007,507606787,"Centro Hospitalar de Setúbal, E. P. E.",509100007,"BAS - Sociedades de Advogados, RL",Hospital,Setúbal,8,4,0.5,1.8942465251541332,211458.0,299.0,7,In observation
+507618319|504551221,507618319,"Centro Hospitalar de Lisboa Ocidental, E. P. E.",504551221,"Link Consulting – Tecnologias de Informação, S.A.",Hospital,Lisboa,8,4,0.5,1.8942465251541332,112046.0,4.0,6,In observation
+507618319|514818484,507618319,"Centro Hospitalar de Lisboa Ocidental, EPE (CHLO)",514818484,"Enerre Pharma, Lda",Hospital,Lisboa,12,6,0.5,1.8942465251541332,238625.18,34.0,4,In observation
+508080142|508720311,508080142,"Unidade Local de Saúde de São José, E. P. E.",508720311,"Centro de Medicina Laboratorial Germano de Sousa, S.A.",Hospital,Lisboa,6,3,0.5,1.8942465251541332,191413.58000000002,5.0,1,In observation
+508080827|513468994,508080827,"Hospital da Senhora da Oliveira Guimarães, E. P. E.",513468994,"BARNA IMPORT MEDICA PORTUGAL-UNIPESSOAL, LDA",Hospital,Braga,8,4,0.5,1.8942465251541332,99503.0,1.0,4,In observation
+508094461|500732680,508094461,"Unidade Local de Saúde do Norte Alentejano, E. P. E.",500732680,"ENERRE-PRODUCOES E REPRESENTACOES, LDA",Hospital,Portalegre,10,5,0.5,1.8942465251541332,300251.0,154.0,3,In observation
+508094461|507336488,508094461,"Unidade Local de Saúde do Norte Alentejano, E. P. E.",507336488,"ACTELION PHARMACEUTICALS PORTUGAL, LDA",Hospital,Portalegre,6,3,0.5,1.8942465251541332,114204.0,14.0,1,In observation
+508184258|502980826,508184258,"Instituto dos Registos e do Notariado, I. P.",502980826,"PDM E FC - Projeto de Desenvolvimento, Manutenção, Formação e Consultadoria, SA",Instituto,Lisboa,6,3,0.5,1.8942465251541332,332821.5,33.0,4,In observation
+508326567|501753494,508326567,"Águas de São João, E. M., S. A.",501753494,RNM - Produtos Químicos.,Outro,Aveiro,6,3,0.5,1.8942465251541332,111475.52,84.0,3,In observation
+508481287|503096024,508481287,"Centro Hospitalar Universitário de Lisboa Norte, EPE",503096024,"A Super 2000 - Máquinas Automáticas de bebidas, S.A.",Hospital,Lisboa,12,6,0.5,1.8942465251541332,989515.86,21.0,3,In observation
+508481287|980079659,508481287,"Centro Hospitalar Lisboa Norte, E. P. E.",980079659,"Inetum España, S.A. - Sucursal em Portugal",Hospital,Lisboa,6,3,0.5,1.8942465251541332,126815.91,159.0,5,In observation
+508666236|501248757,508666236,"Instituto do Turismo de Portugal, I. P.",501248757,"Irmãos Monteiro, SA",Instituto,Coimbra,6,3,0.5,1.8942465251541332,110134.07,309.0,6,In observation
+508779472|507410785,508779472,Comunidade Intermunicipal do Cávado,507410785,"Trenmo Engenharia, SA",Outro,Braga,6,3,0.5,1.8942465251541332,149490.0,189.0,5,In observation
+508831725|508868564,508831725,Comunidade Intermunicipal da Beira Baixa,508868564,Rurisocietate,Outro,Castelo Branco,6,3,0.5,1.8942465251541332,161850.0,118.0,5,In observation
+509364390|504236091,509364390,CIMAC - Comunidade Intermunicipal do Alentejo Central,504236091,"ADRAL - Agência de Desenvolvimento Regional do Alentejo, S.A",Outro,Évora,6,3,0.5,1.8942465251541332,105557.81,32.0,4,In observation
+509822940|503538108,509822940,"Centro Hospitalar Tondela-Viseu, E. P. E.",503538108,"LOGISTA, TRANSPORTES, TRANSITÁRIOS E PHARMA, UNIPESSOAL, LDA.",Hospital,Viseu,16,8,0.5,1.8942465251541332,332586.05,4.0,3,In observation
+509822940|510352626,509822940,"Centro Hospitalar Tondela-Viseu, E. P. E.",510352626,Dermworks,Hospital,Viseu,12,6,0.5,1.8942465251541332,193303.75,5.0,3,In observation
+510103448|514836547,510103448,"Centro Hospitalar e Universitário de Coimbra, E. P. E.",514836547,"SPS - SPINE SERVICES , LDA",Hospital,Coimbra,12,6,0.5,1.8942465251541332,191616.4,17.0,5,In observation
+510832873|500196494,510832873,Freguesia de Areeiro,500196494,"Montellano, Lda",Freguesia,Lisboa,6,3,0.5,1.8942465251541332,78039.15,649.0,5,In observation
+510838200|503491764,510838200,União das Freguesias de Mouraz e Vila Nova da Rainha,503491764,"Somaton Sociedade de Madeiras de Tondela, Lda",Freguesia,Viseu,6,3,0.5,1.8942465251541332,104467.52,230.0,6,In observation
+510957579|503821012,510957579,Comunidade Intermunicipal do Alto Tâmega,503821012,"Sociedade Portuguesa de Inovação - Consultadoria Empresarial e Fomento da Inovação, S.A.",Outro,Vila Real,6,3,0.5,1.8942465251541332,273550.0,378.0,6,In observation
+511217315|511144334,511217315,Município do Funchal,511144334,"O Pilar das Refeições-Sociedade de Restaurantes, Lda.",Município,Região Autónoma da Madeira,6,3,0.5,1.8942465251541332,86852.4,42.0,3,In observation
+512021155|512024235,512021155,Instituto de Alimentação e Mercados Agrícolas,512024235,INOVA - Instituto de Inovação Tecnológica dos Açores,Instituto,Região Autónoma dos Açores,8,4,0.5,1.8942465251541332,183518.45,335.0,8,In observation
+512021155|516848186,512021155,Instituto de Alimentação e Mercados Agrícolas,516848186,"Alicontrol Açores - Consultoria Industrial Unipessoal, Lda.",Instituto,Região Autónoma dos Açores,6,3,0.5,1.8942465251541332,112200.0,31.0,4,In observation
+513060715|UNKNOWN,513060715,SANJOTEC - Associação Científica e Tecnológica,,Ricardo Nuno Vieira Martins,Outro,Aveiro,8,4,0.5,1.8942465251541332,117651.0,8.0,3,In observation
+515545180|515274836,515545180,"Hospital de Braga, E. P. E.",515274836,INNOBIOTECH LDA,Hospital,Braga,6,3,0.5,1.8942465251541332,86657.0,90.0,3,In observation
+600006700|500686599,600006700,"Escola Secundária Henrique Medina, Esposende",500686599,"Salgado &amp; Lopes, Lda",Outro,Braga,8,4,0.5,1.8942465251541332,205035.1,360.0,7,In observation
+600019152|UNKNOWN,600019152,Inst Sup Ciências Sociais e Políticas - Universidade de Lisboa,,Jorge Martins Dias,Outro,Lisboa,6,3,0.5,1.8942465251541332,86170.0,178.0,6,In observation
+600031691|510084230,600031691,Escola Profissional Agrícola Quinta da Lageosa,510084230,"Auto Díonisio, Lda",Outro,Castelo Branco,8,4,0.5,1.8942465251541332,122370.0,326.0,8,In observation
+600037100|501082522,600037100,Direção-Geral da Saúde,501082522,Centro de Estudos e Sondagens de Opinião da UCP,Outro,Lisboa,6,3,0.5,1.8942465251541332,90550.0,341.0,6,In observation
+600037274|503171565,600037274,Serviços de Acção Social do Instituto Politécnico de Lisboa,503171565,"MANVIA - Manutenção e Exploração de Instalações e Construção, S.A.",Instituto,Lisboa,6,3,0.5,1.8942465251541332,122882.12,291.0,5,In observation
+600072819|505885182,600072819,Agrupamento Vertical de Escolas de Arga e Lima,505885182,Panilima-Padaria e Pastelaria Lda.,Outro,Viana do Castelo,8,4,0.5,1.8942465251541332,119474.29999999999,0.0,6,In observation
+600075150|501235574,600075150,"Agrupamento de Escolas de Rates, Póvoa de Varzim",501235574,Carnes S. José -Ccomércio e Industria de Carnes Lda,Outro,Porto,6,3,0.5,1.8942465251541332,132312.22,0.0,3,In observation
+600082970|506937887,600082970,"Agrupamento de Escolas Padre João Coelho Cabanita, Loulé",506937887,"JCL-COMÉRCIO DE PRODUTOS ALIMENTARES, LDA",Outro,Faro,6,3,0.5,1.8942465251541332,108819.27,314.0,5,In observation
+600084345|509269826,600084345,Agrupamento de Escolas de Albufeira,509269826,"Luisa Paula Calado - Comércio de Frutas, Lda.",Outro,Faro,6,3,0.5,1.8942465251541332,110470.13,158.0,5,In observation
+680015965|510603912,680015965,Serviços Municipalizados de Transportes Urbanos de Coimbra,510603912,"Ensoorigins, Lda.",Outro,Coimbra,6,3,0.5,1.8942465251541332,117500.0,336.0,6,In observation
+680017542|UNKNOWN,680017542,Serviços Municipalizados da Câmara Municipal de Abrantes,,ANA PAULA MILHO,Município,Santarém,6,3,0.5,1.8942465251541332,144400.0,15.0,4,In observation
+504300156|UNKNOWN,504300156,Ciência Viva - Agência Nacional para a Cultura Científica e Tecnológica,,Luís Miguel Resende Martins,Outro,Lisboa,108,53,0.49074074074074076,1.8545798329918384,4467584.15,0.0,8,In observation
+506806898|UNKNOWN,506806898,Município de Miranda do Douro,,André Filipe Calvário Afonso,Município,Braganca,72,35,0.4861111111111111,1.834746486910691,4371381.98,0.0,8,In observation
+514387130|UNKNOWN,514387130,"Águas do Tejo Atlântico, S. A.",,Joaquim Rafael Chaveiro Gaspar,Outro,Lisboa,128,62,0.484375,1.8273089821302608,4973200.39,0.0,8,In observation
+512042659|UNKNOWN,512042659,Município de Nordeste,,António Tavares Vieira,Município,Região Autónoma dos Açores,23,11,0.4782608695652174,1.8011160305122238,499732.08,0.0,8,In observation
+508047790|UNKNOWN,508047790,Comunidade Intermunicipal Viseu Dão Lafões,,Pedro Miguel Brás Gonçalves,Outro,Viseu,162,77,0.47530864197530864,1.7884686793880138,3069184.73,0.0,8,In observation
+508318262|505348470,508318262,"Centro Hospitalar do Tâmega e Sousa, E. P. E.",505348470,VACUETTE PORTUGAL SA,Hospital,Porto,19,9,0.47368421052631576,1.7815096105876111,881418.26,0.0,6,In observation
+503148776|500189412,503148776,"Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P.",500189412,Janssen - Cilag Farmacêutica Lda,Outro,Lisboa,15,7,0.4666666666666667,1.751446433369872,428662.23,28.0,5,In observation
+506494926|UNKNOWN,506494926,COTEC Portugal - Associação Empresarial para a Inovação,,Mafalda da Silva Simões Monteiro,Outro,Lisboa,13,6,0.46153846153846156,1.729477188479986,199720.0,0.0,6,In observation
+515545180|509230598,515545180,"Hospital de Braga, E. P. E.",509230598,WSA PORTUGAL,Hospital,Braga,24,11,0.4583333333333333,1.7157464104238067,655760.75,0.0,5,In observation
+500051070|504064835,500051070,Município de Lisboa,504064835,"MGES Equipamentos e Serviços Auto, Lda.",Município,Lisboa,11,5,0.45454545454545453,1.6995191272665044,276366.3,0.0,5,In observation
+502237490|501559094,502237490,"Instituto Nacional de Estatística, I. P.",501559094,Instituto Superior de Estatística e Gestão de Informação – NOVA Information Management School (NOVA IMS),Instituto,Lisboa,11,5,0.45454545454545453,1.6995191272665044,268955.92,1.0,8,In observation
+502613092|UNKNOWN,502613092,"IP Património - Administração e Gestão Imobiliária, S. A.",,Maria Paula Cristovão Alvarez Gonçalves Miranda,Outro,Portugal Continental,11,5,0.45454545454545453,1.6995191272665044,635060.0,0.0,4,In observation
+503933813|505067064,503933813,Infraestruturas de Portugal - Rodovia,505067064,"Papiro, SA",Outro,Portugal Continental,11,5,0.45454545454545453,1.6995191272665044,427778.89999999997,58.0,6,In observation
+509575838|UNKNOWN,509575838,"UC Next, Unipessoal Lda.",,José Manuel Marques da Silva Tavares,Outro,Coimbra,11,5,0.45454545454545453,1.6995191272665044,152160.0,8.0,4,In observation
+509761534|UNKNOWN,509761534,CIMBAL - Comunidade Intermunicipal do Baixo Alentejo,,Paulo Jorge da Silva Barriga,Outro,Beja,33,15,0.45454545454545453,1.6995191272665044,636444.17,1.0,8,In observation
+513637257|UNKNOWN,513637257,Autoridade da Mobilidade e dos Transportes,,Tiago de Souza D´alte,Outro,Lisboa,11,5,0.45454545454545453,1.6995191272665044,239439.35,15.0,6,In observation
+514107405|UNKNOWN,514107405,Startup Portugal - Associação Portuguesa para a Promoção do Empreendedorismo - SPAPPE,,Joana Henkel Lopes,Outro,Faro,11,5,0.45454545454545453,1.6995191272665044,355121.0,2.0,4,In observation
+501138960|513464590,501138960,Município de Valongo,513464590,"CTJX - CONSULTING ENGINEERS,LDA.",Município,Porto,9,4,0.4444444444444444,1.6562463721803646,246706.0,14.0,5,In observation
+501138960|514146710,501138960,Município de Valongo,514146710,"Imoterritório - Avaliação e Gestão Patrimonial, Lda.",Município,Porto,9,4,0.4444444444444444,1.6562463721803646,352098.0,103.0,7,In observation
+503539473|502801034,503539473,Município de Albufeira,502801034,"Cofina Media, S. A.",Município,Faro,9,4,0.4444444444444444,1.6562463721803646,221190.0,48.0,5,In observation
+503539473|508271754,503539473,Município de Albufeira,508271754,ECOREDE - Engenharia e Serviços SA,Município,Faro,9,4,0.4444444444444444,1.6562463721803646,792995.79,0.0,5,In observation
+505037700|509038905,505037700,"Domus Social, EM",509038905,"João Fonseca &amp; Gisela Pinto, Arquitectura e Design Lda",Outro,Porto,9,4,0.4444444444444444,1.6562463721803646,151320.0,43.0,6,In observation
+505187531|508775876,505187531,Câmara Municipal de Cascais,508775876,"INOVAR+AZ - SISTEMAS DE INFORMAÇÃO, LDA",Município,Lisboa,9,4,0.4444444444444444,1.6562463721803646,310866.68,97.0,6,In observation
+505948605|502585757,505948605,Município de Guimarães,502585757,Associação Universidade - Empresa para o Desenvolvimento - TecMinho,Município,Braga,9,4,0.4444444444444444,1.6562463721803646,160560.0,25.0,5,In observation
+506215695|501061479,506215695,Município do Fundão,501061479,"Hotelaria e Turismo Carlos Couto, Lda",Município,Castelo Branco,9,4,0.4444444444444444,1.6562463721803646,225913.0,14.0,7,In observation
+506695956|509801013,506695956,Município de Belmonte,509801013,"AOSEUSERVIÇO, LDA",Município,Castelo Branco,9,4,0.4444444444444444,1.6562463721803646,214046.0,94.0,5,In observation
+507618319|500730741,507618319,"Centro Hospitalar de Lisboa Ocidental, EPE (CHLO)",500730741,DIMOR LUSITANA - COMÉRCIO,Hospital,Lisboa,9,4,0.4444444444444444,1.6562463721803646,115550.5,742.0,3,In observation
+507618319|516070274,507618319,"Centro Hospitalar de Lisboa Ocidental, E. P. E.",516070274,"SOTERIA, LDA",Hospital,,9,4,0.4444444444444444,1.6562463721803646,150819.58000000002,,2,In observation
+507964446|UNKNOWN,507964446,Freguesia de Ribeira de Fráguas,,Silvia Cristina da Silva Martins,Freguesia,Aveiro,9,4,0.4444444444444444,1.6562463721803646,123500.0,0.0,3,In observation
+508142156|505537494,508142156,"Centro Hospitalar Vila Nova de Gaia - Espinho, E. P. E.",505537494,"ENDO VASCULAR, LDA",Hospital,Porto,9,4,0.4444444444444444,1.6562463721803646,905767.0,0.0,5,In observation
+508338476|504654748,508338476,Centro Hospitalar Psiquiátrico de Lisboa,504654748,"Beltrão Coelho, Lda.",Hospital,Lisboa,9,4,0.4444444444444444,1.6562463721803646,106665.0,30.0,5,In observation
+512013241|503821012,512013241,Município de Ribeira Grande,503821012,"Sociedade Portuguesa de Inovação - Consultadoria Empresarial e Fomento da Inovação, S.A.",Município,Região Autónoma dos Açores,9,4,0.4444444444444444,1.6562463721803646,333850.0,77.0,6,In observation
+513454128|UNKNOWN,513454128,Instituto de Desenvolvimento e Inclusão Social - IDIS,,RUI EMANUEL FERREIRA RAMOS,Instituto,Porto,9,4,0.4444444444444444,1.6562463721803646,148400.0,0.0,6,In observation
+515545180|503667544,515545180,"Hospital de Braga, E. P. E.",503667544,"J. M. Silva, Lda.",Hospital,Braga,9,4,0.4444444444444444,1.6562463721803646,209119.69,27.0,4,In observation
+600072800|505759870,600072800,"Agrupamento de Escolas de Santa Maria Maior, Viana do Castelo",505759870,"Pedro Sousa Unipessoal, Lda.",Outro,Viana do Castelo,9,4,0.4444444444444444,1.6562463721803646,155635.5,0.0,5,In observation
+600075826|UNKNOWN,600075826,Comissão de Coordenação e Desenvolvimento Regional do Alentejo,,"DECSIS - Sistemas de Informação, SA.",Outro,Évora,9,4,0.4444444444444444,1.6562463721803646,158714.22,17.0,4,In observation
+680017542|505232235,680017542,Serviços Municipalizados da Câmara Municipal de Abrantes,505232235,"JANZ- Contagem e Gestão de Fluídos , S.A.",Município,Santarém,9,4,0.4444444444444444,1.6562463721803646,156283.31,70.0,8,In observation
+507330609|UNKNOWN,507330609,Freguesia de Marvila,,Nuno Ferreira Pintão,Freguesia,Lisboa,348,151,0.4339080459770115,1.6111084121336157,5613740.15,0.0,8,In observation
+500051062|501386050,500051062,Município de Sintra,501386050,"Pestox-Controle e Defesa do Meio Ambiente, Lda",Município,Lisboa,7,3,0.42857142857142855,1.5882463284735737,251792.0,121.0,4,In observation
+500051070|500061270,500051070,Município de Lisboa,500061270,"CENTROCAR - Centro de Equipamentos Mecanicos, SA",Município,Lisboa,7,3,0.42857142857142855,1.5882463284735737,230540.05,56.0,5,In observation
+501121536|513667245,501121536,Município de Torre de Moncorvo,513667245,"SOPAPEL ,Estela &amp; Orlando, Lda",Município,Braganca,7,3,0.42857142857142855,1.5882463284735737,90174.7,326.0,4,In observation
+501144218|501276670,501144218,Município de Sesimbra,501276670,Ruas&amp;Neves lda,Município,Setúbal,7,3,0.42857142857142855,1.5882463284735737,174154.44,58.0,5,In observation
+501262997|514223839,501262997,Município de Mangualde,514223839,"Jardim &amp; Pessoas, Ldª",Município,Viseu,7,3,0.42857142857142855,1.5882463284735737,331844.0,33.0,5,In observation
+501294163|506822044,501294163,Município de Anadia,506822044,"Hidromaster – Conservação de Superfícies, Lda.",Município,Aveiro,7,3,0.42857142857142855,1.5882463284735737,613493.0,43.0,6,In observation
+501294996|500912645,501294996,Município de Loures,500912645,"Ernst &amp; Young, SA",Município,Lisboa,7,3,0.42857142857142855,1.5882463284735737,250040.0,41.0,6,In observation
+501306099|503199052,501306099,Município do Porto,503199052,"STUDIO EDUARDO AIRES, S.A.",Município,Porto,7,3,0.42857142857142855,1.5882463284735737,181640.0,105.0,6,In observation
+501306234|516027271,501306234,Município de Oliveira de Frades,516027271,"EXTRAORDINARY BRAIN, LDA",Município,Viseu,7,3,0.42857142857142855,1.5882463284735737,129057.8,0.0,3,In observation
+501306870|501999558,501306870,Município de Santo Tirso,501999558,"Paiva &amp; Machado, Lda.",Município,Porto,7,3,0.42857142857142855,1.5882463284735737,86032.88,93.0,5,In observation
+501427511|500697370,501427511,Instituto Nacional de Saúde Dr.Ricardo Jorge(INSA),500697370,"Petróleos de Portugal Petrogal, S.A.",Instituto,Lisboa,7,3,0.42857142857142855,1.5882463284735737,135547.55,133.0,7,In observation
+501461108|503009482,501461108,Universidade de Aveiro,503009482,"ABREU &amp; ASSOCIADOS - SOCIEDADE DE ADVOGADOS, SP, RL",Outro,Aveiro,7,3,0.42857142857142855,1.5882463284735737,181523.0,34.0,3,In observation
+501559094|500912645,501559094,Universidade Nova de Lisboa,500912645,"Ernst &amp; Young, S.A.",Outro,Lisboa,7,3,0.42857142857142855,1.5882463284735737,203185.0,11.0,3,In observation
+501559094|502310090,501559094,Universidade Nova de Lisboa,502310090,"Deloitte Consultores, S.A.",Outro,Lisboa,7,3,0.42857142857142855,1.5882463284735737,321970.0,30.0,5,In observation
+501685596|513790020,501685596,JOBRA - Associação de Jovens da Branca,513790020,"Rianet, Lda",Outro,Aveiro,7,3,0.42857142857142855,1.5882463284735737,158123.75,0.0,4,In observation
+502017368|505160544,502017368,Autoridade Nacional de Comunicações,505160544,knowman Consultores em Gestão Lda,Outro,Lisboa,7,3,0.42857142857142855,1.5882463284735737,78525.0,68.0,4,In observation
+502834846|516379674,502834846,Município do Montijo,516379674,NONSTOP TRADITION UNIPESSOAL LDA,Município,Setúbal,7,3,0.42857142857142855,1.5882463284735737,271094.0,7.0,3,In observation
+503311332|509868657,503311332,"EMEL - Empresa Municipal de Mobilidade e Estacionamento de Lisboa, E. M., S. A.",509868657,"ENGENHO DE MESTRE, LDA",Outro,Lisboa,7,3,0.42857142857142855,1.5882463284735737,1216981.52,25.0,4,In observation
+503539473|503261343,503539473,MUNICÍPIO DE ALBUFEIRA,503261343,Albufeira Magazine Lda,Município,Faro,7,3,0.42857142857142855,1.5882463284735737,106076.8,134.0,6,In observation
+503539473|514986212,503539473,Município de Albufeira,514986212,Cabreira Solutions Unipessoal Lda,Município,Faro,7,3,0.42857142857142855,1.5882463284735737,137900.0,29.0,4,In observation
+503539473|514997133,503539473,Município de Albufeira,514997133,"Associação para o Desenvolvimento do Centro Académico de Investigação e Formação Biomédica do Algarve, AD-ABC",Município,Faro,7,3,0.42857142857142855,1.5882463284735737,323370.0,9.0,2,In observation
+503683388|504654748,503683388,CEFOSAP - Centro de Formação Sindical e Aperfeiçoamento Profissional,504654748,"Beltrão Coelho - Sistemas de Escritório, Lda",Outro,Porto,7,3,0.42857142857142855,1.5882463284735737,97038.0,0.0,5,In observation
+503933813|507194934,503933813,"Infraestruturas de Portugal, S. A.",507194934,"Toinovate Consulting - Consultoria em Recursos Informáticos, Lda",Outro,Portugal Continental,7,3,0.42857142857142855,1.5882463284735737,240054.0,6.0,5,In observation
+503941565|500745749,503941565,"Promotorres, E. M.",500745749,Cruz Vermelha Portuguesa,Outro,Lisboa,7,3,0.42857142857142855,1.5882463284735737,85164.34,12.0,3,In observation
+503941565|501290567,503941565,"Promotorres, E. M.",501290567,Prosegur - Companhia de segurança Lda.,Outro,Lisboa,7,3,0.42857142857142855,1.5882463284735737,223109.53,150.0,5,In observation
+504293125|504009346,504293125,Município de Odivelas,504009346,"DDN-Coordenação e Fiscalização de Obras Publicas e Privadas, Lda",Município,Lisboa,7,3,0.42857142857142855,1.5882463284735737,402663.34,7.0,4,In observation
+504538314|501989978,504538314,"Cascais Envolvente -  Gestão Social da Habitação, E. M., S. A.",501989978,"QUIDGEST - CONSULTORES DE GESTÃO, S. A.",Outro,Lisboa,7,3,0.42857142857142855,1.5882463284735737,229960.0,93.0,5,In observation
+504603205|506008487,504603205,Fundação Escola Profissional de Leiria,506008487,"José Carreira da Silva Costa, Lda.",Outro,Leiria,7,3,0.42857142857142855,1.5882463284735737,136302.41,336.0,7,In observation
+504748114|504812025,504748114,"Desmor, E. M., S. A.",504812025,"Táxis Luis M. C. Santos, Unipessoal, Lda.",Outro,Santarém,7,3,0.42857142857142855,1.5882463284735737,94854.4,208.0,7,In observation
+504763202|501136827,504763202,"Águas de Gaia, EM, SA",501136827,"MOVEX - Produção, Venda e Aluguer de Módulos Pré-fabricados SA",Outro,Porto,7,3,0.42857142857142855,1.5882463284735737,123170.0,352.0,7,In observation
+504828576|502694637,504828576,Município de Évora,502694637,"Luzlimpa Unipessoal, Lda",Município,Évora,7,3,0.42857142857142855,1.5882463284735737,898840.0,92.0,6,In observation
+505120151|510216013,505120151,"Feira Viva - Cultura e Desporto, E. M.",510216013,"Ene Emoções Unipessoal, Lda",Outro,Aveiro,7,3,0.42857142857142855,1.5882463284735737,80775.0,135.0,5,In observation
+505255391|503314030,505255391,"AMBILITAL - Investimentos Ambientais no Alentejo, E. I. M.",503314030,RAMOS &amp; FILHO-REP.DIS HID. LDA,Outro,Setúbal,7,3,0.42857142857142855,1.5882463284735737,355147.0,172.0,6,In observation
+505335018|502888539,505335018,Município de Vila Nova de Gaia,502888539,"Bricantel-Comércio de Material Eléctrico de Bragança, Lda.",Município,Porto,7,3,0.42857142857142855,1.5882463284735737,261659.16999999998,4.0,5,In observation
+505335018|511135610,505335018,Município de Vila Nova de Gaia,511135610,"ACIN - iCloud Solutions, Lda.",Município,Porto,7,3,0.42857142857142855,1.5882463284735737,89550.0,153.0,5,In observation
+505592940|505299402,505592940,Município de Melgaço,505299402,"IPDT Consulting - Investigação, Planeamento e Desenvolvimento, Lda.",Município,Viana do Castelo,7,3,0.42857142857142855,1.5882463284735737,290613.6,77.0,6,In observation
+505656000|502587652,505656000,Município de Rio Maior,502587652,"Benecar - Automóveis, S.A.",Município,Santarém,7,3,0.42857142857142855,1.5882463284735737,309227.67,0.0,4,In observation
+505804786|507225740,505804786,Município de Vila do Conde,507225740,Rduz Gestão Global de Residuos Sa,Município,Porto,7,3,0.42857142857142855,1.5882463284735737,566250.0,24.0,5,In observation
+506151174|515281751,506151174,Município de Viana do Alentejo,515281751,"LC Produções Unipessoal, Lda.",Município,Évora,7,3,0.42857142857142855,1.5882463284735737,163425.0,0.0,4,In observation
+506173968|501199209,506173968,Município do Seixal,501199209,"Mestres Publicidade, Lda",Município,Setúbal,7,3,0.42857142857142855,1.5882463284735737,161869.44,51.0,4,In observation
+506321894|509116396,506321894,Município de Olhão,509116396,"Movixira - Mobiliário de Escritório, Lda.",Município,Faro,7,3,0.42857142857142855,1.5882463284735737,72936.3,487.0,4,In observation
+506572218|507136535,506572218,Município de Lamego,507136535,"MPT - Mobilidade e Planeamento do Território, Lda",Município,Viseu,7,3,0.42857142857142855,1.5882463284735737,293690.5,19.0,5,In observation
+506656128|515015687,506656128,Município de Paredes,515015687,"CIVITECENG, LDª",Município,Porto,7,3,0.42857142857142855,1.5882463284735737,246280.0,48.0,6,In observation
+506722422|506782328,506722422,Município de Coruche,506782328,"Ripórtico – Engenharia, Lda",Município,Santarém,7,3,0.42857142857142855,1.5882463284735737,156408.0,0.0,4,In observation
+506728897|502413603,506728897,Município de Valença,502413603,"PH INFORMATICA E MICRO SISTEMAS, LDA",Município,Viana do Castelo,7,3,0.42857142857142855,1.5882463284735737,124705.12,28.0,6,In observation
+506802698|510908110,506802698,Município de Óbidos,510908110,"Ler Devagar, Lda.",Município,Leiria,7,3,0.42857142857142855,1.5882463284735737,145819.84,46.0,6,In observation
+506804240|502413603,506804240,Município de Lagoa,502413603,PH-INFORMÁTICA E MICROSISTEMAS S.A.,Município,Faro,7,3,0.42857142857142855,1.5882463284735737,124673.9,124.0,6,In observation
+506824942|509098916,506824942,Município de Sabrosa,509098916,"Roda Térmica, EficênciA  Energética, Ldª.",Município,Vila Real,7,3,0.42857142857142855,1.5882463284735737,143153.27,0.0,5,In observation
+506851168|502646802,506851168,Município de Mogadouro,502646802,"Be Water, S.A.",Município,Braganca,7,3,0.42857142857142855,1.5882463284735737,96706.0,0.0,3,In observation
+507012100|503504564,507012100,Município da Nazaré,503504564,"EDP COMERCIAL - COMERCIALIZAÇÃO DE ENERGIA, S.A.",Município,Leiria,7,3,0.42857142857142855,1.5882463284735737,1140349.0,71.0,5,In observation
+507012100|504615947,507012100,Município da Nazaré,504615947,"MEO - Serviços de Comunicações e Multimédia, S.A.",Município,Leiria,7,3,0.42857142857142855,1.5882463284735737,173855.03,0.0,4,In observation
+507076338|UNKNOWN,507076338,Freguesia de Seroa,,Abílio Moreira Dias,Freguesia,Porto,7,3,0.42857142857142855,1.5882463284735737,101465.0,0.0,2,In observation
+507084233|501949534,507084233,Freguesia de Lousa,501949534,"JJA Materiais de Construção, Lda.",Freguesia,Lisboa,7,3,0.42857142857142855,1.5882463284735737,81000.0,358.0,6,In observation
+507237900|UNKNOWN,507237900,Freguesia da Barrosa,,Francisco Mendes Brito Vicente,Freguesia,Santarém,7,3,0.42857142857142855,1.5882463284735737,121910.0,0.0,5,In observation
+507618319|504904493,507618319,"Centro Hospitalar de Lisboa Ocidental, E. P. E.",504904493,"Ris 2048 - Sistemas Informáticos e Comunicações, Lda.",Hospital,Lisboa,7,3,0.42857142857142855,1.5882463284735737,102893.04000000001,6.0,5,In observation
+507618319|505148676,507618319,"Centro Hospitalar de Lisboa Ocidental, EPE (CHLO)",505148676,"LINEAMÉDICA- DISPOSITIVOS MÉDICOS-CIRÚRGICOS,SA",Hospital,Lisboa,42,18,0.42857142857142855,1.5882463284735737,732217.66,21.0,6,In observation
+507725077|513386270,507725077,"Lagos em Forma - Gestão Desportiva, E. M., S. A.",513386270,"Energyco II, SA",Outro,Faro,7,3,0.42857142857142855,1.5882463284735737,809972.0,0.0,4,In observation
+508080142|510940560,508080142,"Centro Hospitalar Universitário Lisboa Central, E. P. E.",510940560,"Casa de Repouso São Lourenço, Lda",Hospital,Lisboa,7,3,0.42857142857142855,1.5882463284735737,316810.0,10.0,2,In observation
+508085888|507992822,508085888,"Hospital do Espírito Santo de Évora, E. P. E.",507992822,RACLAC LDA,Hospital,Évora,7,3,0.42857142857142855,1.5882463284735737,59862.3,0.0,3,In observation
+508666236|502095105,508666236,"Instituto do Turismo de Portugal, I. P.",502095105,"José Maria Lucas, Lda",Instituto,Coimbra,7,3,0.42857142857142855,1.5882463284735737,126827.72,329.0,7,In observation
+508754496|503761877,508754496,Comunidade Intermunicipal do Minho - Lima,503761877,Instituto Politécnico de Viana do Castelo,Outro,Viana do Castelo,7,3,0.42857142857142855,1.5882463284735737,203977.89,11.0,4,In observation
+508914698|506126285,508914698,"Polis Litoral Ria de Aveiro - Sociedade para a Requalificação e Valorização da Ria de Aveiro, S. A.",506126285,"AVEIPLANO – ARQUITECTURA E ENGENHARIA, LDA",Outro,Aveiro,7,3,0.42857142857142855,1.5882463284735737,577401.22,30.0,3,In observation
+509364390|502503661,509364390,CIMAC - Comunidade Intermunicipal do Alentejo Central,502503661,Quaternaire Portugal S.A.,Outro,Évora,7,3,0.42857142857142855,1.5882463284735737,206450.0,144.0,6,In observation
+510834620|UNKNOWN,510834620,União das Freguesias de Arez e Amieira do Tejo,,José Francisco Severino Afonso,Freguesia,Portalegre,14,6,0.42857142857142855,1.5882463284735737,196000.0,0.0,4,In observation
+511236077|501730281,511236077,Associação de Promoção da Região Autónoma da Madeira,501730281,"Multilem - Design e Construção de Espaços, S.A.",Outro,Portugal Continental,7,3,0.42857142857142855,1.5882463284735737,263939.22,0.0,3,In observation
+512074771|507291956,512074771,Município de São Roque do Pico,507291956,"Smart Vision - Assessores e Auditores Estratégicos, Lda",Município,Região Autónoma dos Açores,7,3,0.42857142857142855,1.5882463284735737,209590.09,157.0,6,In observation
+515545236|501720324,515545236,"Tejo Ambiente - Empresa Intermunicipal de Ambiente do Médio Tejo, E. I. M., S. A.",501720324,"DESARFATE - Desaterros de Fátima, Lda.",Outro,Santarém,7,3,0.42857142857142855,1.5882463284735737,234860.0,125.0,4,In observation
+600011712|503640549,600011712,Polícia Judiciária,503640549,Caravela Companhia de Seguros S.A.,Outro,Lisboa,7,3,0.42857142857142855,1.5882463284735737,864828.16,28.0,5,In observation
+600018709|UNKNOWN,600018709,Direção-Geral do Tribunal de Contas,,Ana Cristina Louro Ribeiro Doutor Simões,Outro,Lisboa,7,3,0.42857142857142855,1.5882463284735737,100585.03,12.0,4,In observation
+600032205|503935107,600032205,Secretaria-Geral do Ministério da Defesa Nacional,503935107,"Lusa - Agência de Notícias de Portugal, S. A.",Ministério,Lisboa,7,3,0.42857142857142855,1.5882463284735737,162770.4,341.0,7,In observation
+600076075|505873559,600076075,Agrupamento de Escolas de Souselo,505873559,"M. Alves, Lda",Outro,Viseu,7,3,0.42857142857142855,1.5882463284735737,72356.18,0.0,5,In observation
+600078671|502522380,600078671,Agrupamento de Escolas n.º 4 de Évora,502522380,Rodoviária do Alentejo,Outro,Évora,7,3,0.42857142857142855,1.5882463284735737,180069.5,0.0,6,In observation
+600082032|500145415,600082032,Agrupamento de Escolas do Carregado,500145415,"RECHEIO - CASH &amp; CARRY, S.A",Outro,Lisboa,7,3,0.42857142857142855,1.5882463284735737,94478.55,0.0,6,In observation
+600084108|508831989,600084108,Agrupamento de Escolas de Penacova,508831989,"OLMAR - Artigos de Papelaria, Lda.",Outro,Coimbra,7,3,0.42857142857142855,1.5882463284735737,120359.25,355.0,6,In observation
+600084337|510551688,600084337,"Agrupamento de Escolas Dr.ª Laura Ayres, Loulé",510551688,"Gelsilves, Lda.",Outro,Faro,7,3,0.42857142857142855,1.5882463284735737,203521.72,0.0,4,In observation
+600086097|503502340,600086097,"Agrupamento de Escolas Pinheiro e Rosa, Faro",503502340,"IPNT, LDA",Outro,Faro,7,3,0.42857142857142855,1.5882463284735737,116530.0,331.0,7,In observation
+600086607|506937887,600086607,"Agrupamento de Escolas de Albufeira Poente, Albufeira",506937887,JCL- Comércio de Produtos Alimentares Ldª,Outro,Faro,7,3,0.42857142857142855,1.5882463284735737,97636.3,0.0,6,In observation
+680017763|504615947,680017763,Serviços Municipalizados de Água e Saneamento de Almada,504615947,"1 - MEO - SERVIÇOS DE COMUNICAÇÕES E MULTIMÉDIA, S.A.",Outro,Setúbal,7,3,0.42857142857142855,1.5882463284735737,251030.54,35.0,6,In observation
+680020063|502563664,680020063,Serviços Municipalizados de Viseu,502563664,"LPQ - Laboratório Pró-Qualidade, Lda",Outro,Viseu,7,3,0.42857142857142855,1.5882463284735737,137206.5,0.0,4,In observation
+506676170|UNKNOWN,506676170,Município de Seia,,João Pedro Nunes de Sá Fidalgo,Município,Guarda,143,61,0.42657342657342656,1.5796868824125792,2128469.26,0.0,8,In observation
+506829987|UNKNOWN,506829987,Agência Regional de Promoção Turística do Alentejo - Turismo do Alentejo,,Glenaki Tourism Consultancy,Outro,Beja,55,23,0.41818181818181815,1.5437372089564014,1849069.01,0.0,7,In observation
+503035416|509100007,503035416,"Hospital Professor Doutor Fernando Fonseca, E. P. E.",509100007,BAS - Sociedade de Advogados,Hospital,Lisboa,12,5,0.4166666666666667,1.5372462956934807,305576.0,0.0,6,In observation
+506666018|505085860,506666018,Município de Carrazeda de Ansiães,505085860,"AUTO TÁXI CARRAZEDENSE, LD.ª",Município,Braganca,12,5,0.4166666666666667,1.5372462956934807,174488.0,6.0,8,In observation
+506673626|502693622,506673626,Município do Barreiro,502693622,"Cotefis - Gestão de Projetos, S.A.",Município,Setúbal,12,5,0.4166666666666667,1.5372462956934807,424941.3,14.0,6,In observation
+509822932|980655684,509822932,"CENTRO HOSPITALAR DE LEIRIA, E.P.E.",980655684,CEPHEID IBERIA S.L.U. - SUCURSAL EM PORTUGAL,Hospital,Leiria,12,5,0.4166666666666667,1.5372462956934807,2990470.75,51.0,4,In observation
+510103448|507736915,510103448,"Centro Hospitalar e Universitário de Coimbra, E. P. E.",507736915,"Engels Logística e Ambiente, Unip. Ldª",Hospital,Coimbra,12,5,0.4166666666666667,1.5372462956934807,206270.0,121.0,5,In observation
+514993871|503644650,514993871,"Centro Hospitalar do Oeste, E. P. E.",503644650,ASSOCIAÇÃO SOCORROS FREGUESIA TURCIFAL,Hospital,Leiria,12,5,0.4166666666666667,1.5372462956934807,235513.63,13.0,3,In observation
+501206639|UNKNOWN,501206639,Município de Mourão,,JOSÉ DARIO MORENO CHAVEZ,Município,Évora,171,71,0.4152046783625731,1.5309831337731181,2732769.92,0.0,8,In observation
+507618319|507992822,507618319,"Centro Hospitalar de Lisboa Ocidental, EPE (CHLO)",507992822,Raclac,Hospital,Lisboa,17,7,0.4117647058823529,1.5162462821957952,937600.48,168.0,3,In observation
