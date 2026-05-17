@@ -61,12 +61,6 @@ itself drives the behaviour.
 ## Repository structure
 
     procurement-threshold-analysis/
-    ├── data/
-    │   ├── contratos2017.xlsx          # Raw data from BASE.gov.pt
-    │   ├── ...
-    │   ├── contratos2025.xlsx
-    │   ├── contratos2017.parquet       # Converted for fast loading
-    │   └── ...
     ├── notebooks/
     │   └── procurement_threshold_analysis.ipynb
     └── outputs/
@@ -87,9 +81,15 @@ itself drives the behaviour.
 
 ### Data source
 
-All data is sourced from BASE.gov.pt via dados.gov.pt and is in the public
-domain. The dataset covers contracts registered between 2017 and 2025 across
-all Portuguese public entities.
+Source data is publicly available at BASE.gov.pt via dados.gov.pt (Domínio Público).
+Download the annual contract files for 2017 to 2025 and place them in a data/ folder
+at the root of the repository before running the notebook.
+
+    data/
+    ├── contratos2017.xlsx
+    ├── contratos2018.xlsx
+    ├── ...
+    └── contratos2025.xlsx
 
 ### Scope filters
 
@@ -132,7 +132,7 @@ Requirements:
 
 Steps:
 
-1. Place the raw Excel files from BASE.gov.pt in data/
+1. Download the annual contract files from BASE.gov.pt and place them in data/
 2. Open notebooks/procurement_threshold_analysis.ipynb
 3. Run Section 2 once with CONVERSION_DONE = False to convert xlsx to parquet
 4. Set CONVERSION_DONE = True and run all sections
